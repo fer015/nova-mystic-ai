@@ -1,0 +1,134 @@
+[
+  {
+    "Carta": "El Loco",
+    "Numero": 0,
+    "Significado": "Nuevos comienzos libertad y aventura. El universo te invita a dar un salto de fe sin miedo.",
+    "Significado_Invertido": "Imprudencia falta de dirección y decisiones apresuradas. Detente y reflexiona antes de actuar."
+  },
+  {
+    "Carta": "El Mago",
+    "Numero": 1,
+    "Significado": "Manifestación poder personal y habilidad. Tienes todo lo que necesitas para crear tu realidad.",
+    "Significado_Invertido": "Manipulación inseguridad y talentos sin desarrollar. No uses tu poder para engañar a otros."
+  },
+  {
+    "Carta": "La Sacerdotisa",
+    "Numero": 2,
+    "Significado": "Intuición sabiduría interior y misterio. Escucha tu voz interna antes de tomar decisiones.",
+    "Significado_Invertido": "Secretos ocultos desconexión de la intuición. Algo importante está siendo ignorado."
+  },
+  {
+    "Carta": "La Emperatriz",
+    "Numero": 3,
+    "Significado": "Abundancia fertilidad y creatividad. Es momento de nutrir tus proyectos y relaciones.",
+    "Significado_Invertido": "Dependencia emocional bloqueo creativo y descuido personal. Cuídate primero."
+  },
+  {
+    "Carta": "El Emperador",
+    "Numero": 4,
+    "Significado": "Autoridad estructura y estabilidad. Es momento de establecer bases sólidas en tu vida.",
+    "Significado_Invertido": "Rigidez exceso de control y abuso de poder. Aprende a ceder y confiar en los demás."
+  },
+  {
+    "Carta": "El Hierofante",
+    "Numero": 5,
+    "Significado": "Tradición espiritualidad y guía. Busca consejo en personas sabias o en tus creencias.",
+    "Significado_Invertido": "Dogmatismo rebeldía y rechazo a las normas. Cuestiona lo establecido con sabiduría."
+  },
+  {
+    "Carta": "Los Enamorados",
+    "Numero": 6,
+    "Significado": "Amor unión y elecciones importantes. Una decisión del corazón marcará tu camino.",
+    "Significado_Invertido": "Desacuerdo ruptura y decisiones apresuradas en el amor. Reflexiona antes de elegir."
+  },
+  {
+    "Carta": "El Carro",
+    "Numero": 7,
+    "Significado": "Victoria determinación y control. Tienes la fuerza para superar cualquier obstáculo.",
+    "Significado_Invertido": "Falta de dirección agresividad y pérdida de control. Modera tu impulso."
+  },
+  {
+    "Carta": "La Fuerza",
+    "Numero": 8,
+    "Significado": "Coraje compasión y paciencia interior. Tu fortaleza más grande viene de dentro.",
+    "Significado_Invertido": "Debilidad dudas y falta de confianza. Reconecta con tu poder interior."
+  },
+  {
+    "Carta": "El Ermitaño",
+    "Numero": 9,
+    "Significado": "Reflexión soledad y búsqueda espiritual. Es tiempo de mirar hacia adentro y encontrar tu verdad.",
+    "Significado_Invertido": "Aislamiento excesivo rechazo a la ayuda y pérdida de rumbo. No te cierres al mundo."
+  },
+  {
+    "Carta": "La Rueda de la Fortuna",
+    "Numero": 10,
+    "Significado": "Ciclos cambios de suerte y destino. Una nueva fase llena de oportunidades está comenzando.",
+    "Significado_Invertido": "Mala suerte resistencia al cambio y ciclos negativos. Acepta el flujo de la vida."
+  },
+  {
+    "Carta": "La Justicia",
+    "Numero": 11,
+    "Significado": "Equilibrio verdad y consecuencias kármicas. Las decisiones justas traerán recompensa.",
+    "Significado_Invertido": "Injusticia deshonestidad y desequilibrio. Revisa si estás actuando con integridad."
+  },
+  {
+    "Carta": "El Colgado",
+    "Numero": 12,
+    "Significado": "Pausa sacrificio y perspectiva diferente. Espera y verás la situación desde otro ángulo.",
+    "Significado_Invertido": "Resistencia al cambio martirio innecesario y estancamiento. Suelta lo que no te sirve."
+  },
+  {
+    "Carta": "La Muerte",
+    "Numero": 13,
+    "Significado": "Transformación final de ciclos y renacimiento. Lo viejo termina para dar paso a algo nuevo.",
+    "Significado_Invertido": "Resistencia al cambio estancamiento y miedo a lo nuevo. Acepta la transformación."
+  },
+  {
+    "Carta": "La Templanza",
+    "Numero": 14,
+    "Significado": "Moderación equilibrio y paciencia. La armonía entre opuestos te lleva a la paz interior.",
+    "Significado_Invertido": "Excesos desequilibrio e impaciencia. Encuentra el punto medio en todo lo que haces."
+  },
+  {
+    "Carta": "El Diablo",
+    "Numero": 15,
+    "Significado": "Ataduras materialismo y tentaciones. Algo o alguien tiene poder sobre ti. Reconócelo.",
+    "Significado_Invertido": "Liberación ruptura de cadenas y recuperación del poder personal. Es momento de soltar."
+  },
+  {
+    "Carta": "La Torre",
+    "Numero": 16,
+    "Significado": "Cambios repentinos destrucción de lo falso y revelaciones. Lo que cae debía caerse.",
+    "Significado_Invertido": "Evitar el cambio necesario y prolongar situaciones insostenibles. El colapso viene igual."
+  },
+  {
+    "Carta": "La Estrella",
+    "Numero": 17,
+    "Significado": "Esperanza inspiración y sanación. Después de la tormenta llega la calma y la renovación.",
+    "Significado_Invertido": "Desesperanza desconexión espiritual y falta de fe. La luz siempre regresa."
+  },
+  {
+    "Carta": "La Luna",
+    "Numero": 18,
+    "Significado": "Ilusiones miedos y el subconsciente. Las cosas no son lo que parecen. Confía en tu intuición.",
+    "Significado_Invertido": "Confusión engaño y miedos paralizantes. Busca claridad antes de actuar."
+  },
+  {
+    "Carta": "El Sol",
+    "Numero": 19,
+    "Significado": "Alegría éxito y vitalidad. Todo fluye positivamente. Es tu momento de brillar.",
+    "Significado_Invertido": "Optimismo excesivo y bloqueos temporales. La felicidad llega aunque haya nubes hoy."
+  },
+  {
+    "Carta": "El Juicio",
+    "Numero": 20,
+    "Significado": "Renacimiento llamado interior y absolución. Es momento de responder a tu propósito de vida.",
+    "Significado_Invertido": "Autocrítica excesiva dudas sobre el pasado y resistencia al cambio. Perdónate y avanza."
+  },
+  {
+    "Carta": "El Mundo",
+    "Numero": 21,
+    "Significado": "Completitud logro y plenitud. Has llegado al final de un ciclo con éxito y satisfacción.",
+    "Significado_Invertido": "Ciclo incompleto falta de cierre y búsqueda sin fin. Termina lo que empezaste."
+  }
+]
