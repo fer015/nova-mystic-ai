@@ -1,0 +1,1932 @@
+[
+  {
+    "Simbolo": "Volar",
+    "Interpretacion": "Libertad y deseo de escapar de las limitaciones. Sientes que puedes superar cualquier obstáculo en tu vida actual.",
+    "Categoria": "Libertad"
+  },
+  {
+    "Simbolo": "Caer",
+    "Interpretacion": "Inseguridad o miedo a perder el control en algún aspecto de tu vida. Es momento de recuperar tu confianza.",
+    "Categoria": "Miedo"
+  },
+  {
+    "Simbolo": "Agua clara",
+    "Interpretacion": "Claridad emocional y paz interior. Tu mente subconsciente está en armonía y equilibrio.",
+    "Categoria": "Emociones"
+  },
+  {
+    "Simbolo": "Agua turbia",
+    "Interpretacion": "Confusión emocional o situaciones poco claras. Necesitas tiempo para reflexionar antes de decidir.",
+    "Categoria": "Emociones"
+  },
+  {
+    "Simbolo": "Dientes cayéndose",
+    "Interpretacion": "Ansiedad sobre tu imagen o miedo a perder algo importante. También puede indicar cambios significativos.",
+    "Categoria": "Ansiedad"
+  },
+  {
+    "Simbolo": "Persecución",
+    "Interpretacion": "Huyes de algo en tu vida real — una responsabilidad o emoción que no quieres enfrentar.",
+    "Categoria": "Miedo"
+  },
+  {
+    "Simbolo": "Muerte de alguien",
+    "Interpretacion": "Fin de una etapa o transformación profunda. No es literal sino simbólico de cambios importantes.",
+    "Categoria": "Transformación"
+  },
+  {
+    "Simbolo": "Tu propia muerte",
+    "Interpretacion": "Renacimiento y nueva etapa. Una parte de ti está muriendo para dar paso a algo mejor.",
+    "Categoria": "Transformación"
+  },
+  {
+    "Simbolo": "Serpiente",
+    "Interpretacion": "Transformación sanación o sabiduría. También puede representar una persona o situación amenazante.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Perro",
+    "Interpretacion": "Lealtad amistad y protección. Un amigo cercano podría necesitar tu ayuda pronto.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Gato",
+    "Interpretacion": "Independencia intuición femenina y misterio. Confía en tu instinto en una situación actual.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "León",
+    "Interpretacion": "Fuerza liderazgo y poder personal. Estás listo para asumir un gran reto en tu vida.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Águila",
+    "Interpretacion": "Visión elevada libertad y ambición. Tienes la capacidad de ver más allá de los problemas actuales.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Mariposa",
+    "Interpretacion": "Transformación crecimiento personal y belleza. Estás en medio de un cambio positivo.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Araña",
+    "Interpretacion": "Creatividad paciencia o sentirte atrapado. Alguien puede estar manipulándote en tu entorno.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Caballo",
+    "Interpretacion": "Libertad pasión y fuerza vital. Tu energía creativa está en su punto más alto.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Toro",
+    "Interpretacion": "Terquedad fuerza bruta o fertilidad. Necesitas canalizar tu energía de forma más inteligente.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Pájaro volando",
+    "Interpretacion": "Libertad espiritual y aspiraciones elevadas. Tus sueños están a punto de hacerse realidad.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Pez",
+    "Interpretacion": "Abundancia fertilidad e inconsciente profundo. Hay riqueza emocional o material en tu camino.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Lobo",
+    "Interpretacion": "Instinto protección del clan o soledad. Confía en tus instintos primarios en este momento.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Casa propia",
+    "Interpretacion": "Tu ser interior y estado mental. El estado de la casa refleja cómo te sientes contigo mismo.",
+    "Categoria": "Lugares"
+  },
+  {
+    "Simbolo": "Casa desconocida",
+    "Interpretacion": "Aspectos de ti mismo que aún no conoces. Hay partes de tu personalidad por explorar.",
+    "Categoria": "Lugares"
+  },
+  {
+    "Simbolo": "Casa antigua",
+    "Interpretacion": "El pasado memorias y raíces familiares. Algo del pasado necesita ser resuelto o recordado.",
+    "Categoria": "Lugares"
+  },
+  {
+    "Simbolo": "Escuela o colegio",
+    "Interpretacion": "Aprendizaje lecciones de vida pendientes o nostalgia. Tienes algo que aprender en tu situación actual.",
+    "Categoria": "Lugares"
+  },
+  {
+    "Simbolo": "Hospital",
+    "Interpretacion": "Necesidad de sanación física o emocional. Algo en tu vida necesita atención y cuidado.",
+    "Categoria": "Lugares"
+  },
+  {
+    "Simbolo": "Iglesia o templo",
+    "Interpretacion": "Búsqueda espiritual paz interior y conexión con lo sagrado. Tu alma busca guía divina.",
+    "Categoria": "Lugares"
+  },
+  {
+    "Simbolo": "Bosque",
+    "Interpretacion": "Lo desconocido el inconsciente y la naturaleza interior. Explora tus miedos con valentía.",
+    "Categoria": "Lugares"
+  },
+  {
+    "Simbolo": "Playa",
+    "Interpretacion": "Frontera entre lo consciente e inconsciente. Es momento de explorar tus emociones más profundas.",
+    "Categoria": "Lugares"
+  },
+  {
+    "Simbolo": "Montaña",
+    "Interpretacion": "Obstáculos metas y logros. Escalar indica progreso y bajar indica reflexión o retroceso.",
+    "Categoria": "Lugares"
+  },
+  {
+    "Simbolo": "Ciudad desconocida",
+    "Interpretacion": "Nuevas oportunidades y territorios inexplorados en tu vida personal o profesional.",
+    "Categoria": "Lugares"
+  },
+  {
+    "Simbolo": "Desierto",
+    "Interpretacion": "Soledad vacío emocional o purificación espiritual. Necesitas reconectar contigo mismo.",
+    "Categoria": "Lugares"
+  },
+  {
+    "Simbolo": "Laberinto",
+    "Interpretacion": "Confusión en la toma de decisiones. Hay un problema que parece no tener salida pero la tiene.",
+    "Categoria": "Lugares"
+  },
+  {
+    "Simbolo": "Puente",
+    "Interpretacion": "Transición entre dos etapas de tu vida. Estás a punto de cruzar hacia algo nuevo e importante.",
+    "Categoria": "Lugares"
+  },
+  {
+    "Simbolo": "Ruinas",
+    "Interpretacion": "Algo del pasado que ya no sirve. Es tiempo de reconstruir sobre nuevas bases más sólidas.",
+    "Categoria": "Lugares"
+  },
+  {
+    "Simbolo": "Jardín florido",
+    "Interpretacion": "Crecimiento abundancia y belleza interior. Tu vida está floreciendo en este momento.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Lluvia",
+    "Interpretacion": "Purificación renovación emocional o tristeza. Algo está siendo lavado y renovado en tu vida.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Tormenta",
+    "Interpretacion": "Conflictos emocionales intensos o situaciones caóticas que pronto pasarán.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Nieve",
+    "Interpretacion": "Pureza quietud emocional o frialdad en las relaciones. Necesitas calma para tomar decisiones.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Sol brillante",
+    "Interpretacion": "Alegría éxito vitalidad y claridad. Un periodo muy positivo se aproxima en tu vida.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Luna llena",
+    "Interpretacion": "Intuición femenina ciclos emocionales y revelaciones. Algo oculto será revelado pronto.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Fuego",
+    "Interpretacion": "Pasión transformación o destrucción creativa. Una situación intensa está cambiando tu vida.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Terremoto",
+    "Interpretacion": "Cambios profundos e inesperados que sacuden tus cimientos. Prepárate para una transformación.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Inundación",
+    "Interpretacion": "Emociones desbordadas que no puedes controlar. Necesitas encontrar formas de expresar tus sentimientos.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Arco iris",
+    "Interpretacion": "Esperanza después de la tormenta y promesas cumplidas. Viene un periodo de alegría y recompensa.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Flores",
+    "Interpretacion": "Amor belleza crecimiento y nuevos comienzos. Tu vida está en plena floración y expansión.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Árbol grande",
+    "Interpretacion": "Fuerza raíces familiares y crecimiento espiritual. Tu conexión con tus orígenes te da fortaleza.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Semillas",
+    "Interpretacion": "Potencial nuevos proyectos y comienzos. Estás plantando las bases de algo grande e importante.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Ex pareja",
+    "Interpretacion": "Asuntos emocionales no resueltos o comparación con relaciones actuales. No significa que la extrañas.",
+    "Categoria": "Amor"
+  },
+  {
+    "Simbolo": "Beso apasionado",
+    "Interpretacion": "Deseo de conexión íntima o reconciliación. Tu corazón busca amor y cercanía emocional.",
+    "Categoria": "Amor"
+  },
+  {
+    "Simbolo": "Boda propia",
+    "Interpretacion": "Compromiso unión o deseo de estabilidad. También puede indicar una nueva etapa importante.",
+    "Categoria": "Amor"
+  },
+  {
+    "Simbolo": "Infidelidad",
+    "Interpretacion": "Inseguridades en tu relación o miedo al abandono. Habla con tu pareja sobre tus temores.",
+    "Categoria": "Amor"
+  },
+  {
+    "Simbolo": "Bebé",
+    "Interpretacion": "Nuevos comienzos proyectos creativos o deseo de ser padre o madre. Algo nuevo está naciendo.",
+    "Categoria": "Amor"
+  },
+  {
+    "Simbolo": "Embarazo",
+    "Interpretacion": "Creatividad en gestación o nuevo proyecto a punto de nacer. También puede ser deseo real.",
+    "Categoria": "Amor"
+  },
+  {
+    "Simbolo": "Abrazo",
+    "Interpretacion": "Necesidad de afecto y seguridad emocional. Alguien en tu vida necesita o te da apoyo ahora.",
+    "Categoria": "Amor"
+  },
+  {
+    "Simbolo": "Discusión de pareja",
+    "Interpretacion": "Tensiones no expresadas en tu relación. Es momento de comunicarte con honestidad y apertura.",
+    "Categoria": "Amor"
+  },
+  {
+    "Simbolo": "Persona desconocida amada",
+    "Interpretacion": "Tu anima o animus — la parte opuesta de tu psique que necesitas integrar en tu personalidad.",
+    "Categoria": "Amor"
+  },
+  {
+    "Simbolo": "Ruptura amorosa",
+    "Interpretacion": "Fin de ciclo liberación o miedo a perder tu relación actual. Evalúa qué quieres en el amor.",
+    "Categoria": "Amor"
+  },
+  {
+    "Simbolo": "Dinero",
+    "Interpretacion": "Autoestima poder personal y seguridad material. Ganar indica confianza y perder indica inseguridad.",
+    "Categoria": "Dinero"
+  },
+  {
+    "Simbolo": "Ganar la lotería",
+    "Interpretacion": "Deseo de cambio rápido en tu situación financiera o reconocimiento de tu valor personal.",
+    "Categoria": "Dinero"
+  },
+  {
+    "Simbolo": "Robo",
+    "Interpretacion": "Sensación de que algo te está siendo quitado en la vida real — tiempo energía o reconocimiento.",
+    "Categoria": "Dinero"
+  },
+  {
+    "Simbolo": "Billetera perdida",
+    "Interpretacion": "Pérdida de identidad o recursos. Sientes que estás perdiendo algo valioso en este momento.",
+    "Categoria": "Dinero"
+  },
+  {
+    "Simbolo": "Deudas",
+    "Interpretacion": "Cargas emocionales o responsabilidades que sientes que no puedes cumplir. Pide ayuda si la necesitas.",
+    "Categoria": "Dinero"
+  },
+  {
+    "Simbolo": "Trabajo perdido",
+    "Interpretacion": "Miedo a la inseguridad económica o pérdida de identidad profesional. Evalúa tu situación laboral.",
+    "Categoria": "Trabajo"
+  },
+  {
+    "Simbolo": "Examen sin estudiar",
+    "Interpretacion": "Ansiedad por el rendimiento y miedo a no estar preparado para un desafío en tu vida.",
+    "Categoria": "Trabajo"
+  },
+  {
+    "Simbolo": "Éxito profesional",
+    "Interpretacion": "Confianza en tus habilidades y reconocimiento de tu potencial. Vas por el camino correcto.",
+    "Categoria": "Trabajo"
+  },
+  {
+    "Simbolo": "Jefe amenazante",
+    "Interpretacion": "Problemas de autoridad o conflictos con figuras de poder en tu vida laboral o personal.",
+    "Categoria": "Trabajo"
+  },
+  {
+    "Simbolo": "Reunión importante",
+    "Interpretacion": "Ansiedad sobre una situación social o profesional que requiere tu mejor desempeño.",
+    "Categoria": "Trabajo"
+  },
+  {
+    "Simbolo": "Llegar tarde",
+    "Interpretacion": "Ansiedad por compromisos y miedo a decepcionar a otros. Organiza mejor tus prioridades.",
+    "Categoria": "Tiempo"
+  },
+  {
+    "Simbolo": "Perderse",
+    "Interpretacion": "Falta de dirección en la vida o incertidumbre sobre qué camino tomar en este momento.",
+    "Categoria": "Viaje"
+  },
+  {
+    "Simbolo": "Viaje largo",
+    "Interpretacion": "Transición importante en tu vida o deseo de aventura y cambio de rumbo personal.",
+    "Categoria": "Viaje"
+  },
+  {
+    "Simbolo": "Avión",
+    "Interpretacion": "Ambición elevada y deseo de alcanzar nuevas alturas en tu vida personal o profesional.",
+    "Categoria": "Viaje"
+  },
+  {
+    "Simbolo": "Barco en el mar",
+    "Interpretacion": "Viaje emocional y navegación por los sentimientos más profundos de tu ser interior.",
+    "Categoria": "Viaje"
+  },
+  {
+    "Simbolo": "Tren",
+    "Interpretacion": "Camino predeterminado en la vida — ¿estás siguiendo el tuyo propio o el de otros?",
+    "Categoria": "Viaje"
+  },
+  {
+    "Simbolo": "Carro o auto",
+    "Interpretacion": "Control sobre tu vida y dirección que tomas. Manejar mal indica pérdida de control.",
+    "Categoria": "Viaje"
+  },
+  {
+    "Simbolo": "Accidente de auto",
+    "Interpretacion": "Miedo a perder el control o a las consecuencias de tus decisiones actuales.",
+    "Categoria": "Viaje"
+  },
+  {
+    "Simbolo": "Quedarse sin gasolina",
+    "Interpretacion": "Agotamiento energético — necesitas recargar física mental y emocionalmente tus energías.",
+    "Categoria": "Viaje"
+  },
+  {
+    "Simbolo": "Viajar al espacio",
+    "Interpretacion": "Expansión de consciencia y deseo de explorar más allá de tus límites actuales.",
+    "Categoria": "Viaje"
+  },
+  {
+    "Simbolo": "Planeta desconocido",
+    "Interpretacion": "Terrenos inexplorados en tu psique y deseo de descubrir nuevas dimensiones de ti mismo.",
+    "Categoria": "Viaje"
+  },
+  {
+    "Simbolo": "Zombis",
+    "Interpretacion": "Aspectos de tu vida que se sienten muertos o sin sentido. Rutinas vacías que necesitas cambiar.",
+    "Categoria": "Miedo"
+  },
+  {
+    "Simbolo": "Monstruo",
+    "Interpretacion": "Miedo no enfrentado o aspecto de tu sombra que necesitas reconocer y aceptar.",
+    "Categoria": "Miedo"
+  },
+  {
+    "Simbolo": "Fantasma",
+    "Interpretacion": "Pasado que no termina de irse o asuntos sin resolver que siguen afectando tu presente.",
+    "Categoria": "Miedo"
+  },
+  {
+    "Simbolo": "Oscuridad total",
+    "Interpretacion": "Miedo a lo desconocido o depresión emocional. Busca luz y apoyo en tu entorno cercano.",
+    "Categoria": "Miedo"
+  },
+  {
+    "Simbolo": "Pesadilla recurrente",
+    "Interpretacion": "Tu mente intenta llamar tu atención sobre algo importante que estás ignorando en tu vida.",
+    "Categoria": "Miedo"
+  },
+  {
+    "Simbolo": "Parálisis en el sueño",
+    "Interpretacion": "Sensación de no poder actuar ante una situación. Algo te tiene bloqueado emocionalmente.",
+    "Categoria": "Miedo"
+  },
+  {
+    "Simbolo": "Ser invisible",
+    "Interpretacion": "Sentirte ignorado o no valorado en tu entorno social o familiar cercano.",
+    "Categoria": "Identidad"
+  },
+  {
+    "Simbolo": "Cambiar de cuerpo",
+    "Interpretacion": "Deseo de transformación o exploración de diferentes aspectos de tu personalidad e identidad.",
+    "Categoria": "Identidad"
+  },
+  {
+    "Simbolo": "Mirarse al espejo",
+    "Interpretacion": "Autoevaluación y reflexión sobre tu identidad imagen y cómo te presentas al mundo.",
+    "Categoria": "Identidad"
+  },
+  {
+    "Simbolo": "No reconocerse",
+    "Interpretacion": "Crisis de identidad o cambios profundos en tu forma de verte y entenderte a ti mismo.",
+    "Categoria": "Identidad"
+  },
+  {
+    "Simbolo": "Ser famoso",
+    "Interpretacion": "Deseo de reconocimiento y validación. Quieres que tu valor sea visto y apreciado.",
+    "Categoria": "Identidad"
+  },
+  {
+    "Simbolo": "Superpoderes",
+    "Interpretacion": "Deseo de mayor control eficacia y capacidad para manejar los retos de tu vida actual.",
+    "Categoria": "Identidad"
+  },
+  {
+    "Simbolo": "Hablar en público",
+    "Interpretacion": "Ansiedad social o deseo de ser escuchado y que tu voz tenga impacto en los demás.",
+    "Categoria": "Comunicación"
+  },
+  {
+    "Simbolo": "No poder hablar",
+    "Interpretacion": "Frustración al no poder expresarte o sentirte silenciado en alguna situación de tu vida.",
+    "Categoria": "Comunicación"
+  },
+  {
+    "Simbolo": "Llamada telefónica perdida",
+    "Interpretacion": "Comunicación interrumpida o mensajes que no llegan. Alguien intenta conectarse contigo.",
+    "Categoria": "Comunicación"
+  },
+  {
+    "Simbolo": "Libro o lectura",
+    "Interpretacion": "Conocimiento sabiduría y búsqueda de respuestas. Estás en un periodo de aprendizaje importante.",
+    "Categoria": "Conocimiento"
+  },
+  {
+    "Simbolo": "Examen aprobado",
+    "Interpretacion": "Confianza en tus capacidades y satisfacción por un logro reciente o próximo en tu vida.",
+    "Categoria": "Conocimiento"
+  },
+  {
+    "Simbolo": "Médico o doctor",
+    "Interpretacion": "Necesidad de atención a tu salud física o emocional. Cuida mejor de ti mismo ahora.",
+    "Categoria": "Salud"
+  },
+  {
+    "Simbolo": "Operación quirúrgica",
+    "Interpretacion": "Transformación profunda que requiere eliminar algo que ya no te sirve en tu vida.",
+    "Categoria": "Salud"
+  },
+  {
+    "Simbolo": "Enfermedad",
+    "Interpretacion": "Vulnerabilidad emocional o física. Presta atención a las señales que te da tu cuerpo.",
+    "Categoria": "Salud"
+  },
+  {
+    "Simbolo": "Sanar una herida",
+    "Interpretacion": "Proceso de recuperación emocional. Estás sanando de algo que te lastimó en el pasado.",
+    "Categoria": "Salud"
+  },
+  {
+    "Simbolo": "Comida deliciosa",
+    "Interpretacion": "Satisfacción placer y abundancia. Estás nutriendo tu cuerpo y alma de manera positiva.",
+    "Categoria": "Placer"
+  },
+  {
+    "Simbolo": "No poder comer",
+    "Interpretacion": "Frustración por no poder satisfacer una necesidad básica emocional o física en tu vida.",
+    "Categoria": "Placer"
+  },
+  {
+    "Simbolo": "Fiesta o celebración",
+    "Interpretacion": "Alegría logros y deseo de compartir con otros. Hay algo que merece ser celebrado.",
+    "Categoria": "Social"
+  },
+  {
+    "Simbolo": "Amigos perdidos",
+    "Interpretacion": "Nostalgia por conexiones pasadas o deseo de reconectar con personas importantes de tu vida.",
+    "Categoria": "Social"
+  },
+  {
+    "Simbolo": "Familia reunida",
+    "Interpretacion": "Necesidad de pertenencia unidad y apoyo familiar. Tus raíces te dan fortaleza y seguridad.",
+    "Categoria": "Social"
+  },
+  {
+    "Simbolo": "Pelea con amigo",
+    "Interpretacion": "Conflictos no resueltos o tensiones en tus relaciones personales que necesitan atención.",
+    "Categoria": "Social"
+  },
+  {
+    "Simbolo": "Persona fallecida hablando",
+    "Interpretacion": "Tu mente procesa el duelo o busca sabiduría de alguien que ya no está físicamente.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Ángel",
+    "Interpretacion": "Protección divina guía espiritual y mensajes del más allá o de tu ser superior interior.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Demonio",
+    "Interpretacion": "Aspectos de tu sombra miedos profundos o tentaciones que debes confrontar con valentía.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Luz brillante",
+    "Interpretacion": "Iluminación espiritual claridad y conexión con algo superior a ti mismo en este momento.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Meditación en sueño",
+    "Interpretacion": "Tu ser espiritual está activo y buscando conexión con planos más elevados de consciencia.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Mandala o figuras sagradas",
+    "Interpretacion": "Búsqueda de totalidad equilibrio y armonía interior en todos los aspectos de tu vida.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Oro o tesoro",
+    "Interpretacion": "Valores internos talentos y riqueza espiritual que aún no has descubierto o desarrollado.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Cristales o piedras",
+    "Interpretacion": "Energía sanadora conexión espiritual y búsqueda de equilibrio energético en tu vida.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Color rojo",
+    "Interpretacion": "Pasión energía vital o advertencia. Hay algo en tu vida que requiere acción inmediata.",
+    "Categoria": "Colores"
+  },
+  {
+    "Simbolo": "Color azul",
+    "Interpretacion": "Paz comunicación y profundidad emocional. Tu mente busca tranquilidad y claridad interior.",
+    "Categoria": "Colores"
+  },
+  {
+    "Simbolo": "Color verde",
+    "Interpretacion": "Crecimiento sanación y renovación. Un periodo de expansión y abundancia está llegando a ti.",
+    "Categoria": "Colores"
+  },
+  {
+    "Simbolo": "Color amarillo",
+    "Interpretacion": "Alegría intelecto y optimismo. Tu mente está activa y creativa en este momento especial.",
+    "Categoria": "Colores"
+  },
+  {
+    "Simbolo": "Color negro",
+    "Interpretacion": "Lo desconocido el misterio o la sombra. Hay aspectos ocultos de ti mismo por descubrir.",
+    "Categoria": "Colores"
+  },
+  {
+    "Simbolo": "Color blanco",
+    "Interpretacion": "Pureza nuevos comienzos y paz espiritual. Una etapa limpia y renovada está comenzando.",
+    "Categoria": "Colores"
+  },
+  {
+    "Simbolo": "Color dorado",
+    "Interpretacion": "Iluminación sabiduría y conexión divina. Estás alcanzando un nivel superior de comprensión.",
+    "Categoria": "Colores"
+  },
+  {
+    "Simbolo": "Color violeta",
+    "Interpretacion": "Espiritualidad intuición y transformación mística. Tu chakra corona está muy activo.",
+    "Categoria": "Colores"
+  },
+  {
+    "Simbolo": "Color naranja",
+    "Interpretacion": "Creatividad entusiasmo y vitalidad. Tu energía creadora está en plena efervescencia ahora.",
+    "Categoria": "Colores"
+  },
+  {
+    "Simbolo": "Color rosa",
+    "Interpretacion": "Amor incondicional ternura y sanación del corazón. Eres amado y digno de todo el amor.",
+    "Categoria": "Colores"
+  },
+  {
+    "Simbolo": "Número 1",
+    "Interpretacion": "Nuevos comienzos independencia y liderazgo. Es momento de tomar las riendas de tu vida.",
+    "Categoria": "Números"
+  },
+  {
+    "Simbolo": "Número 2",
+    "Interpretacion": "Dualidad cooperación y equilibrio. Necesitas encontrar armonía entre dos aspectos de tu vida.",
+    "Categoria": "Números"
+  },
+  {
+    "Simbolo": "Número 3",
+    "Interpretacion": "Creatividad comunicación y expansión. Tu energía creativa está en su punto máximo ahora.",
+    "Categoria": "Números"
+  },
+  {
+    "Simbolo": "Número 4",
+    "Interpretacion": "Estabilidad fundamentos y trabajo arduo. Construye bases sólidas para tu futuro próximo.",
+    "Categoria": "Números"
+  },
+  {
+    "Simbolo": "Número 5",
+    "Interpretacion": "Cambio libertad y aventura. Una transformación importante se avecina en tu vida actual.",
+    "Categoria": "Números"
+  },
+  {
+    "Simbolo": "Número 6",
+    "Interpretacion": "Amor responsabilidad y armonía familiar. Tu misión ahora es cuidar y nutrir a otros.",
+    "Categoria": "Números"
+  },
+  {
+    "Simbolo": "Número 7",
+    "Interpretacion": "Espiritualidad sabiduría interior y búsqueda del conocimiento. Un período de reflexión profunda.",
+    "Categoria": "Números"
+  },
+  {
+    "Simbolo": "Número 8",
+    "Interpretacion": "Abundancia poder y éxito material. Tus esfuerzos comenzarán a dar frutos muy pronto.",
+    "Categoria": "Números"
+  },
+  {
+    "Simbolo": "Número 9",
+    "Interpretacion": "Finalización compasión y sabiduría universal. Un ciclo importante está llegando a su fin.",
+    "Categoria": "Números"
+  },
+  {
+    "Simbolo": "Número 11",
+    "Interpretacion": "Número maestro de intuición y despertar espiritual. Tu percepción está muy agudizada.",
+    "Categoria": "Números"
+  },
+  {
+    "Simbolo": "Número 22",
+    "Interpretacion": "Número maestro del constructor. Tienes el poder de manifestar grandes sueños en realidad.",
+    "Categoria": "Números"
+  },
+  {
+    "Simbolo": "Número 33",
+    "Interpretacion": "Número maestro del maestro. Tu misión es guiar e inspirar a otros con tu ejemplo de vida.",
+    "Categoria": "Números"
+  },
+  {
+    "Simbolo": "Reloj o tiempo",
+    "Interpretacion": "Ansiedad sobre el tiempo que pasa o urgencia de actuar en alguna situación de tu vida.",
+    "Categoria": "Objetos"
+  },
+  {
+    "Simbolo": "Llave",
+    "Interpretacion": "Acceso a algo nuevo solución a un problema o apertura de posibilidades que estaban cerradas.",
+    "Categoria": "Objetos"
+  },
+  {
+    "Simbolo": "Espada",
+    "Interpretacion": "Claridad mental decisión y coraje para cortar con lo que ya no te sirve en tu vida.",
+    "Categoria": "Objetos"
+  },
+  {
+    "Simbolo": "Libro antiguo",
+    "Interpretacion": "Sabiduría ancestral conocimiento del pasado y mensajes de tus guías espirituales.",
+    "Categoria": "Objetos"
+  },
+  {
+    "Simbolo": "Fotografía",
+    "Interpretacion": "Memorias del pasado o aspectos de tu vida que quieres preservar y mantener vivos.",
+    "Categoria": "Objetos"
+  },
+  {
+    "Simbolo": "Teléfono roto",
+    "Interpretacion": "Comunicación interrumpida o dificultad para conectar con alguien importante en tu vida.",
+    "Categoria": "Objetos"
+  },
+  {
+    "Simbolo": "Música",
+    "Interpretacion": "Armonía emocional y necesidad de expresión creativa. Tu alma busca cantar y bailar libremente.",
+    "Categoria": "Arte"
+  },
+  {
+    "Simbolo": "Pintura",
+    "Interpretacion": "Expresión creativa y deseo de dejar una huella en el mundo con tus dones y talentos únicos.",
+    "Categoria": "Arte"
+  },
+  {
+    "Simbolo": "Danza",
+    "Interpretacion": "Libertad de expresión alegría y conexión con tu cuerpo y emociones más profundas y auténticas.",
+    "Categoria": "Arte"
+  },
+  {
+    "Simbolo": "Escalera subiendo",
+    "Interpretacion": "Progreso ascenso y avance hacia tus metas. Cada peldaño representa un logro en tu camino.",
+    "Categoria": "Movimiento"
+  },
+  {
+    "Simbolo": "Escalera bajando",
+    "Interpretacion": "Introspección retroceso necesario o descenso al inconsciente para sanar algo del pasado.",
+    "Categoria": "Movimiento"
+  },
+  {
+    "Simbolo": "Correr libremente",
+    "Interpretacion": "Libertad vitalidad y deseo de avanzar rápidamente hacia tus metas y sueños más importantes.",
+    "Categoria": "Movimiento"
+  },
+  {
+    "Simbolo": "No poder correr",
+    "Interpretacion": "Frustración ante obstáculos o sensación de estar atascado en una situación de tu vida.",
+    "Categoria": "Movimiento"
+  },
+  {
+    "Simbolo": "Nadar",
+    "Interpretacion": "Navegación fluida por las emociones o dificultad para mantenerse a flote emocionalmente.",
+    "Categoria": "Movimiento"
+  },
+  {
+    "Simbolo": "Ahogarse",
+    "Interpretacion": "Sentirse abrumado por las emociones o situaciones que parecen superar tu capacidad actual.",
+    "Categoria": "Movimiento"
+  },
+  {
+    "Simbolo": "Trepar un árbol",
+    "Interpretacion": "Ambición crecimiento y deseo de alcanzar nuevas perspectivas sobre tu vida y situación.",
+    "Categoria": "Movimiento"
+  },
+  {
+    "Simbolo": "Caminar descalzo",
+    "Interpretacion": "Conexión con la tierra tu esencia más básica y el deseo de sentirte arraigado y presente.",
+    "Categoria": "Movimiento"
+  },
+  {
+    "Simbolo": "Universo o cosmos",
+    "Interpretacion": "Expansión de consciencia y comprensión de que eres parte de algo mucho más grande.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Estrella fugaz",
+    "Interpretacion": "Deseo oportunidad efímera o mensaje especial del universo que debes captar rápidamente.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Eclipse",
+    "Interpretacion": "Momento de transición entre lo viejo y lo nuevo. Algo está cambiando de manera fundamental.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Cometa",
+    "Interpretacion": "Mensaje importante que llega o evento significativo que se aproxima en tu vida muy pronto.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Galaxia",
+    "Interpretacion": "Infinitas posibilidades y la vastedad de tu potencial que aún no has explorado completamente.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Viaje al pasado",
+    "Interpretacion": "Lecciones no aprendidas o necesidad de sanar heridas antiguas que siguen afectando tu presente.",
+    "Categoria": "Tiempo"
+  },
+  {
+    "Simbolo": "Viaje al futuro",
+    "Interpretacion": "Ansiedad o anticipación sobre lo que está por venir. Tu mente planifica y prepara el camino.",
+    "Categoria": "Tiempo"
+  },
+  {
+    "Simbolo": "Rejuvenecerse",
+    "Interpretacion": "Deseo de vitalidad nueva energía y la sensación de empezar de nuevo con fuerzas renovadas.",
+    "Categoria": "Transformación"
+  },
+  {
+    "Simbolo": "Envejecer rápido",
+    "Interpretacion": "Miedo al paso del tiempo o a perder oportunidades importantes que están frente a ti ahora.",
+    "Categoria": "Transformación"
+  },
+  {
+    "Simbolo": "Metamorfosis",
+    "Interpretacion": "Transformación profunda en curso. Estás cambiando a un nivel fundamental de tu ser interior.",
+    "Categoria": "Transformación"
+  },
+  {
+    "Simbolo": "Renacer",
+    "Interpretacion": "Ciclo completado y nueva etapa que comienza. Lo viejo termina para dar paso a lo extraordinario.",
+    "Categoria": "Transformación"
+  },
+  {
+    "Simbolo": "Elefante",
+    "Interpretacion": "Memoria sabiduría ancestral y fuerza tranquila. Alguien mayor te dará un consejo valioso.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Delfín",
+    "Interpretacion": "Alegría inteligencia emocional y comunicación profunda. Tu ser busca juego y ligereza ahora.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Ballena",
+    "Interpretacion": "Profundidad emocional sabiduría y conexión con el inconsciente colectivo de la humanidad.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Tigre",
+    "Interpretacion": "Poder instintivo fuerza y valentía. Estás listo para enfrentar tus desafíos con determinación.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Oso",
+    "Interpretacion": "Protección introspección y hibernación. Necesitas tiempo de retiro para recargar tu energía.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Ciervo",
+    "Interpretacion": "Gracia gentileza y nueva vida. Una situación delicada requiere tu tacto y sensibilidad.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Zorro",
+    "Interpretacion": "Astucia adaptabilidad e inteligencia. Usa tu ingenio para navegar una situación complicada.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Cuervo",
+    "Interpretacion": "Magia transformación y mensajes del más allá. Presta atención a las señales a tu alrededor.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Búho",
+    "Interpretacion": "Sabiduría visión nocturna e intuición profunda. Confía en lo que ves más allá de lo evidente.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Colibrí",
+    "Interpretacion": "Alegría ligereza y capacidad de adaptarse con gracia a los cambios más inesperados de la vida.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Paloma",
+    "Interpretacion": "Paz reconciliación y mensajes de amor. Un conflicto está a punto de resolverse positivamente.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Tortuga",
+    "Interpretacion": "Paciencia protección y sabiduría lenta pero segura. No te apresures — el tiempo está a tu favor.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Conejo",
+    "Interpretacion": "Fertilidad rapidez y nuevas oportunidades. Actúa rápido ante una oportunidad que se presenta.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Rana",
+    "Interpretacion": "Transformación purificación y salto hacia algo nuevo. Es momento de dar el gran salto.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Lagarto",
+    "Interpretacion": "Adaptabilidad sueños y renovación. Tu mente creativa está generando soluciones innovadoras.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Cocodrilo",
+    "Interpretacion": "Peligros ocultos en tu entorno o emociones primitivas que necesitan ser controladas.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Elefante marino",
+    "Interpretacion": "Fuerza bruta territorios emocionales y necesidad de establecer límites claros con otros.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Flamenco",
+    "Interpretacion": "Elegancia equilibrio y belleza interior. Te destacas entre los demás por tu gracia natural.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Loro",
+    "Interpretacion": "Comunicación imitación o mensajes importantes que debes escuchar con más atención ahora.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Pingüino",
+    "Interpretacion": "Adaptabilidad comunidad y habilidad para navegar entre dos mundos emocionales diferentes.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Pulpo",
+    "Interpretacion": "Inteligencia adaptabilidad y capacidad de manejar múltiples situaciones al mismo tiempo.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Medusa",
+    "Interpretacion": "Fluidez emocional y dejarse llevar por la corriente de la vida sin resistencia ni control.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Cangrejo",
+    "Interpretacion": "Protección instinto maternal y avanzar de forma lateral cuando el camino directo está bloqueado.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Estrella de mar",
+    "Interpretacion": "Regeneración capacidad de sanar y recuperarse de cualquier pérdida o herida profunda.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Murciélago",
+    "Interpretacion": "Renacimiento visión en la oscuridad y transición hacia una nueva etapa de tu vida espiritual.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Unicornio",
+    "Interpretacion": "Magia pureza y lo que parece imposible puede hacerse realidad con fe y perseverancia.",
+    "Categoria": "Mítico"
+  },
+  {
+    "Simbolo": "Dragón",
+    "Interpretacion": "Poder transformador fuego interior y protección de lo más sagrado de tu ser y vida.",
+    "Categoria": "Mítico"
+  },
+  {
+    "Simbolo": "Fénix",
+    "Interpretacion": "Renacimiento de las cenizas resurgimiento y la capacidad infinita de empezar de nuevo.",
+    "Categoria": "Mítico"
+  },
+  {
+    "Simbolo": "Sirena",
+    "Interpretacion": "Seducción del inconsciente mundo emocional y la dualidad entre razón y sentimiento.",
+    "Categoria": "Mítico"
+  },
+  {
+    "Simbolo": "Grifo",
+    "Interpretacion": "Unión de poder y sabiduría guardián de tesoros y protector de los conocimientos sagrados.",
+    "Categoria": "Mítico"
+  },
+  {
+    "Simbolo": "Pegaso",
+    "Interpretacion": "Inspiración divina libertad creativa y la capacidad de elevarte sobre cualquier limitación.",
+    "Categoria": "Mítico"
+  },
+  {
+    "Simbolo": "Centauro",
+    "Interpretacion": "Dualidad entre lo animal y lo espiritual — integración de tus instintos y tu mente racional.",
+    "Categoria": "Mítico"
+  },
+  {
+    "Simbolo": "Hada",
+    "Interpretacion": "Magia cotidiana alegría pura y la invitación a ver lo extraordinario en lo ordinario de la vida.",
+    "Categoria": "Mítico"
+  },
+  {
+    "Simbolo": "Duende",
+    "Interpretacion": "Travesuras creatividad desbordante y la necesidad de no tomarte todo tan en serio siempre.",
+    "Categoria": "Mítico"
+  },
+  {
+    "Simbolo": "Fuerza invisible",
+    "Interpretacion": "Algo más grande que tú está guiando tu camino. Confía en el proceso universal que te rodea.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Volcán en erupción",
+    "Interpretacion": "Emociones reprimidas que explotan. Necesitas encontrar una salida saludable para tu ira o frustración.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Cueva oscura",
+    "Interpretacion": "Exploración del inconsciente — hay tesoros escondidos en las partes más profundas de tu ser.",
+    "Categoria": "Lugares"
+  },
+  {
+    "Simbolo": "Isla desierta",
+    "Interpretacion": "Soledad voluntaria o involuntaria. Evalúa si necesitas más conexión o más tiempo para ti mismo.",
+    "Categoria": "Lugares"
+  },
+  {
+    "Simbolo": "Castillo",
+    "Interpretacion": "Poder protección y ambición. Estás construyendo algo sólido y grande en tu vida actual.",
+    "Categoria": "Lugares"
+  },
+  {
+    "Simbolo": "Torre",
+    "Interpretacion": "Aislamiento defensa exagerada o necesidad de bajar la guardia con las personas que amas.",
+    "Categoria": "Lugares"
+  },
+  {
+    "Simbolo": "Faro",
+    "Interpretacion": "Guía en la oscuridad y orientación cuando estás perdido. Hay alguien que puede iluminar tu camino.",
+    "Categoria": "Lugares"
+  },
+  {
+    "Simbolo": "Cementerio",
+    "Interpretacion": "Fin de ciclos procesamiento del duelo y honrar lo que ya fue parte de tu historia de vida.",
+    "Categoria": "Lugares"
+  },
+  {
+    "Simbolo": "Biblioteca",
+    "Interpretacion": "Conocimiento acumulado sabiduría y el deseo de aprender más sobre ti y sobre el mundo.",
+    "Categoria": "Lugares"
+  },
+  {
+    "Simbolo": "Laboratorio",
+    "Interpretacion": "Experimentación análisis y búsqueda de soluciones creativas a los problemas actuales.",
+    "Categoria": "Lugares"
+  },
+  {
+    "Simbolo": "Teatro",
+    "Interpretacion": "Roles que juegas en la vida social y la pregunta de quién eres cuando nadie te está mirando.",
+    "Categoria": "Lugares"
+  },
+  {
+    "Simbolo": "Estadio",
+    "Interpretacion": "Competencia reconocimiento y el deseo de destacar entre la multitud con tus logros.",
+    "Categoria": "Lugares"
+  },
+  {
+    "Simbolo": "Mercado",
+    "Interpretacion": "Intercambio recursos y valorar lo que tienes y lo que puedes ofrecer a los demás.",
+    "Categoria": "Lugares"
+  },
+  {
+    "Simbolo": "Puerto",
+    "Interpretacion": "Punto de partida o llegada. Una fase termina o una nueva aventura está a punto de comenzar.",
+    "Categoria": "Lugares"
+  },
+  {
+    "Simbolo": "Aeropuerto",
+    "Interpretacion": "Transición entre etapas y la emoción o ansiedad de los grandes cambios que vienen.",
+    "Categoria": "Lugares"
+  },
+  {
+    "Simbolo": "Estación de tren",
+    "Interpretacion": "Decisiones sobre el rumbo de tu vida y qué destino elegir en el próximo capítulo.",
+    "Categoria": "Lugares"
+  },
+  {
+    "Simbolo": "Río",
+    "Interpretacion": "Flujo de la vida emociones en movimiento y la capacidad de adaptarse a los cambios constantes.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Lago tranquilo",
+    "Interpretacion": "Paz interior reflexión y la necesidad de encontrar quietud en medio del caos cotidiano.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Cascada",
+    "Interpretacion": "Abundancia emocional liberación y dejar que los sentimientos fluyan sin restricciones.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Cueva marina",
+    "Interpretacion": "Secretos del inconsciente emocional y exploración de aspectos ocultos de tu personalidad.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Acantilado",
+    "Interpretacion": "Decisión importante al borde de algo significativo. Evalúa bien antes de dar el salto.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Praderas verdes",
+    "Interpretacion": "Paz abundancia y espacio para crecer y expandirte en todos los aspectos de tu vida.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Campo de girasoles",
+    "Interpretacion": "Optimismo alegría solar y orientación hacia la luz y lo positivo en tu vida diaria.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Viñedo",
+    "Interpretacion": "Frutos del trabajo paciente y la recompensa que llega después de mucho esfuerzo sostenido.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Pantano",
+    "Interpretacion": "Estancamiento emocional — algo te retiene y necesitas liberarte de ese peso para avanzar.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Glaciar",
+    "Interpretacion": "Emociones congeladas o situaciones que parecen inmóviles pero que lentamente están cambiando.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Aurora boreal",
+    "Interpretacion": "Maravilla espiritual y la presencia de algo divino y extraordinario en tu vida cotidiana.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Tifón o huracán",
+    "Interpretacion": "Caos externo o interno que aunque destructor trae una renovación profunda y necesaria.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Relámpago",
+    "Interpretacion": "Iluminación repentina insight poderoso o cambio abrupto que transforma tu perspectiva.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Trueno",
+    "Interpretacion": "Advertencia poder de la naturaleza y la necesidad de prestar atención a las señales del universo.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Neblina",
+    "Interpretacion": "Falta de claridad sobre una situación. Espera a que la niebla se disipe antes de decidir.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Viento fuerte",
+    "Interpretacion": "Cambios que llegan sin avisar y la necesidad de mantenerte firme ante las circunstancias.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Brisa suave",
+    "Interpretacion": "Cambios sutiles que se avecinan y la invitación a fluir con gracia y ligereza ante ellos.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Tornado",
+    "Interpretacion": "Situación caótica que gira fuera de control. Busca tu centro de calma en medio de la tormenta.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Granizo",
+    "Interpretacion": "Obstáculos inesperados que te ponen a prueba. Son temporales y pasarán más rápido de lo que crees.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Niebla marina",
+    "Interpretacion": "Misterio emocional y la necesidad de confiar en tu intuición cuando no puedes ver el camino.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Tierra fértil",
+    "Interpretacion": "Potencial enorme listo para ser cultivado. El momento de plantar tus sueños ha llegado.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Barro",
+    "Interpretacion": "Trabajar con los elementos básicos de la vida y dar forma a algo nuevo desde cero con tus manos.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Arena del desierto",
+    "Interpretacion": "Cambios constantes impermanencia y la sabiduría de no aferrarse a nada en esta vida.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Piedra preciosa",
+    "Interpretacion": "Valor oculto que aún no has reconocido en ti mismo. Eres más valioso de lo que crees.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Diamante",
+    "Interpretacion": "Fortaleza bajo presión pureza y la capacidad de brillar en las circunstancias más difíciles.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Perla",
+    "Interpretacion": "Sabiduría que surge del dolor — algo hermoso ha nacido de una experiencia difícil pasada.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Amanecer",
+    "Interpretacion": "Nuevos comienzos esperanza y la promesa de que cada día trae una nueva oportunidad contigo.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Atardecer",
+    "Interpretacion": "Cierre reflexión y la paz que viene con el fin de un ciclo o etapa importante de tu vida.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Medianoche",
+    "Interpretacion": "Momento de máxima intuición y conexión con el inconsciente. Escucha tu voz interior ahora.",
+    "Categoria": "Tiempo"
+  },
+  {
+    "Simbolo": "Alba",
+    "Interpretacion": "El instante justo antes del amanecer — estás a punto de ver la luz después de mucha oscuridad.",
+    "Categoria": "Tiempo"
+  },
+  {
+    "Simbolo": "Solsticio",
+    "Interpretacion": "Punto de inflexión en tu ciclo de vida — algo que alcanza su máxima expresión para luego cambiar.",
+    "Categoria": "Tiempo"
+  },
+  {
+    "Simbolo": "Equinoccio",
+    "Interpretacion": "Búsqueda de equilibrio entre opuestos en tu vida — trabajo y descanso luz y sombra.",
+    "Categoria": "Tiempo"
+  },
+  {
+    "Simbolo": "Luna nueva",
+    "Interpretacion": "Nuevos comienzos intenciones frescas y la oportunidad de empezar un nuevo ciclo vital.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Luna creciente",
+    "Interpretacion": "Crecimiento expansión y el desarrollo gradual de algo que sembraste hace poco tiempo.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Luna menguante",
+    "Interpretacion": "Liberación soltar y dejar ir aquello que ya no te sirve para hacer espacio a lo nuevo.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Eclipse lunar",
+    "Interpretacion": "Revelaciones emocionales profundas y el fin de un ciclo emocional importante en tu vida.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Eclipse solar",
+    "Interpretacion": "Transformación de tu identidad y propósito — algo fundamental en ti está cambiando ahora.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Estrella del norte",
+    "Interpretacion": "Orientación guía confiable y la certeza de que siempre hay un norte al que puedes volver.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Constelación",
+    "Interpretacion": "Patrones en tu vida que te revelan un diseño mayor y un propósito que va más allá de lo evidente.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Planetario",
+    "Interpretacion": "Comprensión de tu lugar en el universo y la interconexión de todo lo que existe a tu alrededor.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Agujero negro",
+    "Interpretacion": "Aspectos de tu vida o psique que absorben toda tu energía sin darte nada a cambio.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Supernova",
+    "Interpretacion": "Explosión de potencial creatividad y la necesidad de brillar con toda tu luz ahora mismo.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Portal dimensional",
+    "Interpretacion": "Transición a una nueva realidad o nivel de consciencia más elevado y expandido.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Chakra del corazón",
+    "Interpretacion": "Amor compasión y sanación de heridas emocionales profundas que llevas cargando.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Chakra de la corona",
+    "Interpretacion": "Conexión divina iluminación y apertura a recibir guía del universo o tu ser superior.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Chakra raíz",
+    "Interpretacion": "Seguridad estabilidad y la necesidad de sentirte conectado a la tierra y a tus raíces.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Kundalini",
+    "Interpretacion": "Despertar de energía espiritual poderosa que sube por tu columna vertebral hacia lo divino.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Aura dorada",
+    "Interpretacion": "Protección divina elevada vibración y la presencia de guías espirituales cerca de ti.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Aura oscura",
+    "Interpretacion": "Energías densas a tu alrededor que necesitan ser limpiadas y transformadas con amor y luz.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Meditación profunda",
+    "Interpretacion": "Estado elevado de consciencia y conexión con tu ser superior más allá del ego limitante.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Mantra",
+    "Interpretacion": "Poder de las palabras sagradas y la necesidad de repetir afirmaciones positivas en tu vida.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Ritual sagrado",
+    "Interpretacion": "Necesidad de crear rutinas y prácticas que honren tu vida espiritual y tu ser interior.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Oráculo o adivino",
+    "Interpretacion": "Búsqueda de respuestas sobre el futuro y la confianza en que hay guía disponible para ti.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Tarot en sueño",
+    "Interpretacion": "Tu inconsciente usa símbolos arquetípicos para enviarte mensajes importantes sobre tu vida.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Círculo de fuego",
+    "Interpretacion": "Prueba iniciática — estás pasando por un proceso que te fortalece y te hace crecer.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Piedra angular",
+    "Interpretacion": "Fundamento esencial de algo que construyes — asegúrate de que tus bases sean sólidas.",
+    "Categoria": "Construcción"
+  },
+  {
+    "Simbolo": "Ladrillo",
+    "Interpretacion": "Construcción gradual paciente y la satisfacción de construir algo con tus propias manos.",
+    "Categoria": "Construcción"
+  },
+  {
+    "Simbolo": "Cemento",
+    "Interpretacion": "Unir partes separadas y crear algo sólido y duradero en tu vida personal o profesional.",
+    "Categoria": "Construcción"
+  },
+  {
+    "Simbolo": "Andamio",
+    "Interpretacion": "Estructura temporal de apoyo mientras construyes algo permanente e importante en tu vida.",
+    "Categoria": "Construcción"
+  },
+  {
+    "Simbolo": "Planos o mapas",
+    "Interpretacion": "Planificación claridad de propósito y la necesidad de trazar un camino antes de actuar.",
+    "Categoria": "Construcción"
+  },
+  {
+    "Simbolo": "Derrumbe",
+    "Interpretacion": "Algo que creías sólido colapsa — pero esto abre espacio para construir algo mejor y más auténtico.",
+    "Categoria": "Construcción"
+  },
+  {
+    "Simbolo": "Renovación de casa",
+    "Interpretacion": "Transformación interior y el deseo de cambiar aspectos fundamentales de quién eres hoy.",
+    "Categoria": "Construcción"
+  },
+  {
+    "Simbolo": "Pintar paredes",
+    "Interpretacion": "Renovación imagen fresca y el deseo de presentarte al mundo de una manera diferente.",
+    "Categoria": "Construcción"
+  },
+  {
+    "Simbolo": "Jardín sin cuidar",
+    "Interpretacion": "Aspectos de tu vida que has descuidado y que necesitan atención y amor urgentemente.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Poda de árboles",
+    "Interpretacion": "Eliminar lo que ya no sirve para que lo sano pueda crecer con más fuerza y vitalidad.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Cosecha abundante",
+    "Interpretacion": "Frutos de tu trabajo esfuerzo reconocido y la recompensa que mereces por tu dedicación.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Siembra de primavera",
+    "Interpretacion": "Nuevos proyectos en su etapa inicial que necesitan cuidado paciencia y dedicación constante.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Lluvia de primavera",
+    "Interpretacion": "Renovación después del invierno emocional y el florecimiento de algo que estaba latente.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Invierno helado",
+    "Interpretacion": "Período de introspección letargo necesario y preparación para el próximo ciclo de crecimiento.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Otoño con hojas",
+    "Interpretacion": "Soltar lo que fue hermoso en su momento para prepararse para la renovación que viene.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Verano brillante",
+    "Interpretacion": "Período de máxima energía abundancia social y florecimiento pleno de tus proyectos.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Madre",
+    "Interpretacion": "Amor incondicional origen protección y la relación fundamental que moldea quién eres hoy.",
+    "Categoria": "Familia"
+  },
+  {
+    "Simbolo": "Padre",
+    "Interpretacion": "Autoridad guía protección y la influencia que ha dado forma a tus valores y manera de ver el mundo.",
+    "Categoria": "Familia"
+  },
+  {
+    "Simbolo": "Hermano o hermana",
+    "Interpretacion": "Rivalidad amor fraternal y los lazos que aunque complejos nunca se rompen del todo.",
+    "Categoria": "Familia"
+  },
+  {
+    "Simbolo": "Abuelos",
+    "Interpretacion": "Sabiduría ancestral raíces familiares y la herencia tanto positiva como negativa que cargas.",
+    "Categoria": "Familia"
+  },
+  {
+    "Simbolo": "Hijo o hija",
+    "Interpretacion": "Parte inocente de ti mismo creatividad pura o responsabilidades que sientes hacia el futuro.",
+    "Categoria": "Familia"
+  },
+  {
+    "Simbolo": "Familia numerosa",
+    "Interpretacion": "Sentido de pertenencia abundancia relacional y la riqueza que viene de las conexiones humanas.",
+    "Categoria": "Familia"
+  },
+  {
+    "Simbolo": "Familia disfuncional",
+    "Interpretacion": "Patrones heredados que necesitas sanar para no repetirlos en tu vida actual y futura.",
+    "Categoria": "Familia"
+  },
+  {
+    "Simbolo": "Reconciliación familiar",
+    "Interpretacion": "Sanación de heridas del pasado y la posibilidad real de restaurar vínculos dañados.",
+    "Categoria": "Familia"
+  },
+  {
+    "Simbolo": "Reunión de generaciones",
+    "Interpretacion": "Continuidad del linaje sabiduría transgeneracional y tu lugar en la cadena familiar.",
+    "Categoria": "Familia"
+  },
+  {
+    "Simbolo": "Adopción",
+    "Interpretacion": "Elección de vínculos que van más allá de la sangre y la creación de familia desde el amor.",
+    "Categoria": "Familia"
+  },
+  {
+    "Simbolo": "Maestro o profesor",
+    "Interpretacion": "Guía mentora y la lección de vida que necesitas aprender en este momento preciso.",
+    "Categoria": "Educación"
+  },
+  {
+    "Simbolo": "Alumno aventajado",
+    "Interpretacion": "Tus talentos y habilidades están siendo reconocidos. Es momento de brillar con confianza.",
+    "Categoria": "Educación"
+  },
+  {
+    "Simbolo": "Diploma o título",
+    "Interpretacion": "Logro culminado etapa completada y el reconocimiento oficial de tus capacidades.",
+    "Categoria": "Educación"
+  },
+  {
+    "Simbolo": "Graduación",
+    "Interpretacion": "Cierre de un capítulo importante y apertura emocionante hacia una nueva etapa de vida.",
+    "Categoria": "Educación"
+  },
+  {
+    "Simbolo": "Biblioteca universitaria",
+    "Interpretacion": "Búsqueda profunda de conocimiento y la dedicación a aprender y crecer continuamente.",
+    "Categoria": "Educación"
+  },
+  {
+    "Simbolo": "Sala de clases vacía",
+    "Interpretacion": "Oportunidades de aprendizaje que no estás aprovechando. Es momento de volver a estudiar.",
+    "Categoria": "Educación"
+  },
+  {
+    "Simbolo": "Pizarrón con fórmulas",
+    "Interpretacion": "Lógica análisis y la necesidad de comprender mejor una situación compleja de tu vida.",
+    "Categoria": "Educación"
+  },
+  {
+    "Simbolo": "Laboratorio de ciencias",
+    "Interpretacion": "Experimentación metodológica y la búsqueda de verdades verificables en tu entorno.",
+    "Categoria": "Educación"
+  },
+  {
+    "Simbolo": "Instrumento musical",
+    "Interpretacion": "Expresión del alma y la necesidad de armonía en tu vida emocional y creativa actual.",
+    "Categoria": "Arte"
+  },
+  {
+    "Simbolo": "Pincel y lienzo",
+    "Interpretacion": "Creatividad que espera ser expresada. Tienes algo valioso que compartir con el mundo.",
+    "Categoria": "Arte"
+  },
+  {
+    "Simbolo": "Escultura en proceso",
+    "Interpretacion": "Dar forma a algo desde el caos y la paciencia creativa para crear tu obra maestra personal.",
+    "Categoria": "Arte"
+  },
+  {
+    "Simbolo": "Galería de arte",
+    "Interpretacion": "Apreciación de la belleza y el deseo de rodearte de inspiración y cosas que eleven tu espíritu.",
+    "Categoria": "Arte"
+  },
+  {
+    "Simbolo": "Concierto en vivo",
+    "Interpretacion": "Conexión colectiva emoción compartida y el poder de la experiencia grupal que transforma.",
+    "Categoria": "Arte"
+  },
+  {
+    "Simbolo": "Película o cine",
+    "Interpretacion": "Observar tu propia vida como espectador y reflexionar sobre el papel que estás jugando.",
+    "Categoria": "Arte"
+  },
+  {
+    "Simbolo": "Escritura creativa",
+    "Interpretacion": "Necesidad de expresar tu historia interior y dejar un legado con tus palabras y experiencias.",
+    "Categoria": "Arte"
+  },
+  {
+    "Simbolo": "Fotografía artística",
+    "Interpretacion": "Capturar momentos preciosos y aprender a ver la belleza en lo cotidiano y lo simple.",
+    "Categoria": "Arte"
+  },
+  {
+    "Simbolo": "Actuación teatral",
+    "Interpretacion": "Exploración de diferentes aspectos de tu personalidad y la pregunta de quién eres realmente.",
+    "Categoria": "Arte"
+  },
+  {
+    "Simbolo": "Baile contemporáneo",
+    "Interpretacion": "Expresión libre del cuerpo y las emociones sin las restricciones de las formas establecidas.",
+    "Categoria": "Arte"
+  },
+  {
+    "Simbolo": "Opera o canto lírico",
+    "Interpretacion": "Expresión elevada de las emociones más profundas y la búsqueda de la belleza absoluta.",
+    "Categoria": "Arte"
+  },
+  {
+    "Simbolo": "Escultura de barro",
+    "Interpretacion": "Dar forma a ideas en bruto y la satisfacción de crear algo tangible con tus propias manos.",
+    "Categoria": "Arte"
+  },
+  {
+    "Simbolo": "Mosaico",
+    "Interpretacion": "Unir piezas aparentemente dispares para crear algo hermoso y coherente en tu vida.",
+    "Categoria": "Arte"
+  },
+  {
+    "Simbolo": "Origami",
+    "Interpretacion": "Transformar algo simple en algo complejo y bello con paciencia y precisión meticulosa.",
+    "Categoria": "Arte"
+  },
+  {
+    "Simbolo": "Tatuaje",
+    "Interpretacion": "Marca permanente en tu identidad y algo que quieres recordar o que te define profundamente.",
+    "Categoria": "Identidad"
+  },
+  {
+    "Simbolo": "Cicatriz",
+    "Interpretacion": "Herida sanada que te recuerda tu fuerza y capacidad de sobrevivir y crecer a través del dolor.",
+    "Categoria": "Salud"
+  },
+  {
+    "Simbolo": "Corona",
+    "Interpretacion": "Liderazgo reconocimiento y la toma de posesión de tu poder personal y autoridad interior.",
+    "Categoria": "Poder"
+  },
+  {
+    "Simbolo": "Trono",
+    "Interpretacion": "Posición de poder responsabilidad y la pregunta de cómo usas tu influencia sobre los demás.",
+    "Categoria": "Poder"
+  },
+  {
+    "Simbolo": "Cetro",
+    "Interpretacion": "Autoridad que ejerces sobre tu propia vida y la capacidad de dirigir tu destino con sabiduría.",
+    "Categoria": "Poder"
+  },
+  {
+    "Simbolo": "Escudo",
+    "Interpretacion": "Protección defensa emocional y los mecanismos que usas para protegerte del daño externo.",
+    "Categoria": "Protección"
+  },
+  {
+    "Simbolo": "Armadura",
+    "Interpretacion": "Protección excesiva que puede impedirte conectar auténticamente con los demás y con la vida.",
+    "Categoria": "Protección"
+  },
+  {
+    "Simbolo": "Capa protectora",
+    "Interpretacion": "Invisibilidad y el deseo de pasar desapercibido mientras observas y procesas lo que ocurre.",
+    "Categoria": "Protección"
+  },
+  {
+    "Simbolo": "Anillo",
+    "Interpretacion": "Compromiso promesa y los vínculos que eliges honrar y mantener en tu vida actual.",
+    "Categoria": "Amor"
+  },
+  {
+    "Simbolo": "Collar",
+    "Interpretacion": "Conexión entre la mente y el corazón y los lazos que te unen a personas o lugares especiales.",
+    "Categoria": "Amor"
+  },
+  {
+    "Simbolo": "Pulsera",
+    "Interpretacion": "Vínculos y conexiones elegidas — las personas que decides tener cerca de tu muñeca y corazón.",
+    "Categoria": "Amor"
+  },
+  {
+    "Simbolo": "Pendientes",
+    "Interpretacion": "Apertura a escuchar y recibir mensajes del entorno y de las personas que te rodean.",
+    "Categoria": "Comunicación"
+  },
+  {
+    "Simbolo": "Bolso o cartera",
+    "Interpretacion": "Lo que cargas contigo — tus recursos herramientas y el peso que llevas en tu vida diaria.",
+    "Categoria": "Objetos"
+  },
+  {
+    "Simbolo": "Maleta",
+    "Interpretacion": "Preparación para un viaje o cambio importante — ¿qué llevas contigo y qué dejas atrás?",
+    "Categoria": "Viaje"
+  },
+  {
+    "Simbolo": "Mochila pesada",
+    "Interpretacion": "Cargas emocionales que llevas de un lado al otro sin necesidad. Es momento de soltar peso.",
+    "Categoria": "Emociones"
+  },
+  {
+    "Simbolo": "Paraguas",
+    "Interpretacion": "Protección ante las tormentas de la vida y la previsión de estar preparado para lo inesperado.",
+    "Categoria": "Protección"
+  },
+  {
+    "Simbolo": "Sombrero",
+    "Interpretacion": "Roles sociales que adoptas y la imagen que proyectas al mundo en diferentes contextos.",
+    "Categoria": "Identidad"
+  },
+  {
+    "Simbolo": "Zapatos nuevos",
+    "Interpretacion": "Nuevo camino que se abre ante ti y la preparación para emprender una nueva dirección.",
+    "Categoria": "Viaje"
+  },
+  {
+    "Simbolo": "Zapatos rotos",
+    "Interpretacion": "Dificultades en el camino actual o la necesidad de renovar tu forma de avanzar en la vida.",
+    "Categoria": "Viaje"
+  },
+  {
+    "Simbolo": "Descalzo sobre hierba",
+    "Interpretacion": "Conexión profunda con la naturaleza y el deseo de sentirte libre y enraizado al mismo tiempo.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Descalzo sobre arena",
+    "Interpretacion": "Libertad relajación y la necesidad de disfrutar más del presente sin preocuparte por el futuro.",
+    "Categoria": "Placer"
+  },
+  {
+    "Simbolo": "Descalzo sobre agua",
+    "Interpretacion": "Exploración emocional suave y la disposición a sentir sin miedo tus emociones más profundas.",
+    "Categoria": "Emociones"
+  },
+  {
+    "Simbolo": "Descalzo sobre hielo",
+    "Interpretacion": "Situación delicada que requiere moverte con mucho cuidado y precisión para no resbalar.",
+    "Categoria": "Miedo"
+  },
+  {
+    "Simbolo": "Escalada de roca",
+    "Interpretacion": "Esfuerzo concentrado metas ambiciosas y la satisfacción de superar un reto verdaderamente difícil.",
+    "Categoria": "Movimiento"
+  },
+  {
+    "Simbolo": "Salto al vacío",
+    "Interpretacion": "Fe en el proceso confianza en que habrá algo que te sostenga cuando te atrevas a soltar.",
+    "Categoria": "Transformación"
+  },
+  {
+    "Simbolo": "Paracaídas",
+    "Interpretacion": "Protección en la caída y la confianza de que hay redes de seguridad en tu vida actual.",
+    "Categoria": "Protección"
+  },
+  {
+    "Simbolo": "Bungee jumping",
+    "Interpretacion": "Adrenalina emoción y el deseo de experimentar la vida con más intensidad y atrevimiento.",
+    "Categoria": "Aventura"
+  },
+  {
+    "Simbolo": "Surf en olas grandes",
+    "Interpretacion": "Habilidad para cabalgar las emociones intensas y sacar lo mejor de las situaciones difíciles.",
+    "Categoria": "Emociones"
+  },
+  {
+    "Simbolo": "Buceo profundo",
+    "Interpretacion": "Exploración valiente del inconsciente y los aspectos más profundos de tu psique interior.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Snorkel en arrecife",
+    "Interpretacion": "Exploración de la belleza que existe justo debajo de la superficie de tu vida cotidiana.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Kayak en río",
+    "Interpretacion": "Navegación activa de los desafíos de la vida con habilidad y control en las aguas turbulentas.",
+    "Categoria": "Movimiento"
+  },
+  {
+    "Simbolo": "Remo en lago",
+    "Interpretacion": "Progreso constante y metodico hacia tus metas con esfuerzo sostenido y dirección clara.",
+    "Categoria": "Movimiento"
+  },
+  {
+    "Simbolo": "Vela en el mar",
+    "Interpretacion": "Libertad guiada por el viento del destino y la capacidad de ajustar las velas cuando cambian los vientos.",
+    "Categoria": "Viaje"
+  },
+  {
+    "Simbolo": "Submarino",
+    "Interpretacion": "Exploración de lo más profundo y oscuro de tu inconsciente con valentía y curiosidad.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Fondo del océano",
+    "Interpretacion": "Los aspectos más profundos y primitivos de tu psique que rara vez ves pero que te influyen.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Arrecife de coral",
+    "Interpretacion": "Diversidad de vida y la riqueza que existe cuando diferentes aspectos de tu ser coexisten armónicamente.",
+    "Categoria": "Naturaleza"
+  },
+  {
+    "Simbolo": "Banco de peces",
+    "Interpretacion": "Movimiento colectivo sincronizado y la pregunta de si sigues a la multitud o tu propio camino.",
+    "Categoria": "Social"
+  },
+  {
+    "Simbolo": "Danza de ballenas",
+    "Interpretacion": "Comunicación a nivel profundo y la conexión con algo sagrado y poderoso en tu vida.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Migración de aves",
+    "Interpretacion": "Instinto de seguir el camino natural y la sabiduría de moverse cuando el momento llega.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Nido de pájaros",
+    "Interpretacion": "Hogar seguridad y la creación de un espacio protegido para ti y los que amas en tu vida.",
+    "Categoria": "Animales"
+  },
+  {
+    "Simbolo": "Huevo que eclosiona",
+    "Interpretacion": "Nacimiento de algo nuevo que ha estado gestándose pacientemente dentro de ti por mucho tiempo.",
+    "Categoria": "Transformación"
+  },
+  {
+    "Simbolo": "Capullo de mariposa",
+    "Interpretacion": "Proceso de transformación que requiere paciencia — no interrumpas el cambio que se está gestando.",
+    "Categoria": "Transformación"
+  },
+  {
+    "Simbolo": "Árbol de la vida",
+    "Interpretacion": "Conexión entre todos los planos de existencia y tu lugar en la gran red de la vida universal.",
+    "Categoria": "Espiritual"
+  },
+  {
+    "Simbolo": "Raíces profundas",
+    "Interpretacion": "Cimientos sólidos herencia poderosa y la fortaleza que viene de saber de dónde vienes.",
+    "Categoria": "Familia"
+  },
+  {
+    "Simbolo": "Ramas extendidas",
+    "Interpretacion": "Crecimiento expansión y las múltiples direcciones hacia las que tu vida se está desarrollando.",
+    "Categoria": "Crecimiento"
+  },
+  {
+    "Simbolo": "Frutos maduros",
+    "Interpretacion": "Logros que están listos para ser recogidos. El momento de cosechar tus esfuerzos ha llegado.",
+    "Categoria": "Logros"
+  },
+  {
+    "Simbolo": "Hojas caídas",
+    "Interpretacion": "Soltar lo que fue hermoso en su momento y confiar en que volverá a crecer con más fuerza.",
+    "Categoria": "Transformación"
+  },
+  {
+    "Simbolo": "Corteza rugosa",
+    "Interpretacion": "Protección que has desarrollado con el tiempo y la sabiduría que viene de haber resistido tormentas.",
+    "Categoria": "Fortaleza"
+  },
+  {
+    "Simbolo": "Savia dulce",
+    "Interpretacion": "Recursos internos y la dulzura de la vida que fluye cuando te permites recibirla con gratitud.",
+    "Categoria": "Abundancia"
+  },
+  {
+    "Simbolo": "Tronco hueco",
+    "Interpretacion": "Espacio sagrado de refugio y la necesidad de tener un lugar íntimo donde retirarte a descansar.",
+    "Categoria": "Protección"
+  },
+  {
+    "Simbolo": "Copa del árbol",
+    "Interpretacion": "Visión elevada perspectiva amplia y la capacidad de ver más allá de los detalles cotidianos.",
+    "Categoria": "Sabiduría"
+  },
+  {
+    "Simbolo": "Bosque encantado",
+    "Interpretacion": "Magia en lo cotidiano y la invitación a ver el mundo con los ojos del asombro y la maravilla.",
+    "Categoria": "Mítico"
+  },
+  {
+    "Simbolo": "Sendero en el bosque",
+    "Interpretacion": "El camino que has elegido y la confianza en que cada paso te lleva hacia donde debes ir.",
+    "Categoria": "Viaje"
+  },
+  {
+    "Simbolo": "Encrucijada",
+    "Interpretacion": "Momento de decisión importante donde múltiples caminos se presentan ante ti con posibilidades.",
+    "Categoria": "Decisión"
+  },
+  {
+    "Simbolo": "Camino de piedras",
+    "Interpretacion": "Avance pausado pero seguro y la certeza de que cada piedra te sostiene en tu camino.",
+    "Categoria": "Movimiento"
+  },
+  {
+    "Simbolo": "Atajo peligroso",
+    "Interpretacion": "Tentación de tomar el camino fácil pero riesgoso — evalúa bien antes de decidir qué hacer.",
+    "Categoria": "Decisión"
+  },
+  {
+    "Simbolo": "Camino sin fin",
+    "Interpretacion": "Proceso continuo de crecimiento y la comprensión de que el viaje es tan importante como el destino.",
+    "Categoria": "Viaje"
+  },
+  {
+    "Simbolo": "Regreso a casa",
+    "Interpretacion": "Reconciliación con tu origen reconexión con tu esencia y el deseo de volver a lo que importa.",
+    "Categoria": "Familia"
+  },
+  {
+    "Simbolo": "Casa de infancia",
+    "Interpretacion": "Memorias que moldean tu presente y la necesidad de revisitar tu historia para sanar heridas.",
+    "Categoria": "Familia"
+  },
+  {
+    "Simbolo": "Habitación secreta",
+    "Interpretacion": "Aspectos ocultos de tu personalidad que aún no has explorado o que mantienes en reserva.",
+    "Categoria": "Identidad"
+  },
+  {
+    "Simbolo": "Puerta cerrada",
+    "Interpretacion": "Oportunidad bloqueada o aspecto de tu vida al que aún no tienes acceso pero que se abrirá.",
+    "Categoria": "Oportunidad"
+  },
+  {
+    "Simbolo": "Puerta abierta",
+    "Interpretacion": "Invitación a explorar nuevas posibilidades que se presentan ante ti en este momento.",
+    "Categoria": "Oportunidad"
+  },
+  {
+    "Simbolo": "Ventana hacia el exterior",
+    "Interpretacion": "Perspectiva nueva y el deseo de ver más allá de tu situación actual con ojos frescos.",
+    "Categoria": "Percepción"
+  },
+  {
+    "Simbolo": "Ventana empañada",
+    "Interpretacion": "Falta de claridad sobre algo importante — limpia la neblina antes de tomar decisiones cruciales.",
+    "Categoria": "Percepción"
+  },
+  {
+    "Simbolo": "Espejo roto",
+    "Interpretacion": "Autoimagen distorsionada o ruptura de una ilusión sobre ti mismo o sobre tu situación real.",
+    "Categoria": "Identidad"
+  },
+  {
+    "Simbolo": "Espejo mágico",
+    "Interpretacion": "Capacidad de ver más allá de la superficie y percibir la verdad profunda de las situaciones.",
+    "Categoria": "Sabiduría"
+  },
+  {
+    "Simbolo": "Reloj de arena",
+    "Interpretacion": "Tiempo que se agota para algo — hay una decisión o acción que no puede esperar más tiempo.",
+    "Categoria": "Tiempo"
+  },
+  {
+    "Simbolo": "Reloj detenido",
+    "Interpretacion": "Momento congelado en el tiempo — hay algo del pasado que no has podido soltar todavía.",
+    "Categoria": "Tiempo"
+  },
+  {
+    "Simbolo": "Calendario",
+    "Interpretacion": "Planificación estructura y la conciencia del tiempo como recurso valioso que administrar bien.",
+    "Categoria": "Tiempo"
+  },
+  {
+    "Simbolo": "Agenda llena",
+    "Interpretacion": "Exceso de compromisos y la necesidad urgente de establecer prioridades más claras en tu vida.",
+    "Categoria": "Trabajo"
+  }
+]
