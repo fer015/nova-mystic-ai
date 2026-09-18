@@ -1,0 +1,56 @@
+[
+  {
+    "Numero": 1,
+    "Nombre": "El Líder",
+    "Significado": "Independencia ambición y nuevos comienzos. El 1 representa la fuerza pionera.",
+    "Consejo": "Confía en ti mismo y toma la iniciativa sin miedo"
+  },
+  {
+    "Numero": 2,
+    "Nombre": "El Diplomático",
+    "Significado": "Cooperación sensibilidad y equilibrio. Buscas la armonía en todo.",
+    "Consejo": "Aprende a pedir ayuda y trabaja en equipo"
+  },
+  {
+    "Numero": 3,
+    "Nombre": "El Creativo",
+    "Significado": "Expresión alegría y comunicación. Tienes un don artístico natural.",
+    "Consejo": "Canaliza tu creatividad y compártela con el mundo"
+  },
+  {
+    "Numero": 4,
+    "Nombre": "El Constructor",
+    "Significado": "Estabilidad disciplina y trabajo duro. Eres la base de todo lo que construyes.",
+    "Consejo": "La constancia es tu mayor fortaleza"
+  },
+  {
+    "Numero": 5,
+    "Nombre": "El Aventurero",
+    "Significado": "Libertad cambio y versatilidad. Necesitas movimiento y experiencias nuevas.",
+    "Consejo": "Abraza el cambio sin perder el rumbo"
+  },
+  {
+    "Numero": 6,
+    "Nombre": "El Armonioso",
+    "Significado": "Amor responsabilidad y familia. Tu misión es cuidar y sanar.",
+    "Consejo": "Cuídate a ti mismo tanto como cuidas a otros"
+  },
+  {
+    "Numero": 7,
+    "Nombre": "El Sabio",
+    "Significado": "Análisis espiritualidad y búsqueda interior. Eres profundo y reflexivo.",
+    "Consejo": "Confía en tu intuición además de tu razón"
+  },
+  {
+    "Numero": 8,
+    "Nombre": "El Abundante",
+    "Significado": "Poder éxito material y autoridad. Tienes energía para grandes logros.",
+    "Consejo": "Usa tu poder con integridad y generosidad"
+  },
+  {
+    "Numero": 9,
+    "Nombre": "El Humanitario",
+    "Significado": "Compasión sabiduría universal y servicio. Viniste a dar al mundo.",
+    "Consejo": "Suelta el pasado y enfócate en tu legado"
+  }
+]
