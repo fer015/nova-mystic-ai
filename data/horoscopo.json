@@ -1,0 +1,98 @@
+[
+  {
+    "Signo": "Aries",
+    "Fecha": "2026-09-16",
+    "Lectura_Amor": "Venus favorece tus relaciones hoy. Si estás en pareja expresa lo que sientes sin miedo. Si estás soltero alguien especial podría aparecer.",
+    "Lectura_Trabajo": "Tu energía y determinación te hacen destacar en el trabajo. Es buen momento para proponer nuevas ideas.",
+    "Lectura_Salud": "Tu vitalidad es alta pero evita el exceso de actividad física. Descansa cuando lo necesites.",
+    "Lectura_Dinero": "Una oportunidad financiera inesperada podría presentarse. Evalúala con calma antes de decidir."
+  },
+  {
+    "Signo": "Tauro",
+    "Fecha": "2026-09-16",
+    "Lectura_Amor": "La estabilidad que buscas en el amor está cerca. Confía en el proceso y no fuerces situaciones.",
+    "Lectura_Trabajo": "La perseverancia es tu mayor aliada hoy. Los resultados de tu esfuerzo comenzarán a verse.",
+    "Lectura_Salud": "Presta atención a tu alimentación y hábitos. Pequeños cambios traerán grandes beneficios.",
+    "Lectura_Dinero": "Tus finanzas mejoran gradualmente. Evita gastos innecesarios y ahorra para el futuro."
+  },
+  {
+    "Signo": "Géminis",
+    "Fecha": "2026-09-16",
+    "Lectura_Amor": "La comunicación es clave en tus relaciones hoy. Habla con honestidad y escucha con el corazón.",
+    "Lectura_Trabajo": "Tu mente brillante encuentra soluciones creativas. Comparte tus ideas con tus colegas.",
+    "Lectura_Salud": "Tu sistema nervioso necesita descanso. Practica la meditación o actividades relajantes.",
+    "Lectura_Dinero": "Revisa tus gastos y crea un presupuesto. La organización financiera te traerá tranquilidad."
+  },
+  {
+    "Signo": "Cáncer",
+    "Fecha": "2026-09-16",
+    "Lectura_Amor": "Tu sensibilidad te hace muy atractivo emocionalmente. Permite que los demás vean tu vulnerabilidad.",
+    "Lectura_Trabajo": "Tu intuición te guía en el trabajo. Confía en tus instintos al tomar decisiones importantes.",
+    "Lectura_Salud": "Cuida tu mundo emocional pues afecta directamente tu salud física. Busca equilibrio interior.",
+    "Lectura_Dinero": "El ahorro familiar es importante hoy. Planifica los gastos del hogar con tu pareja o familia."
+  },
+  {
+    "Signo": "Leo",
+    "Fecha": "2026-09-16",
+    "Lectura_Amor": "Tu carisma brilla en el amor. Eres magnético y atractivo. Disfruta de la atención que recibes.",
+    "Lectura_Trabajo": "Tu liderazgo natural te posiciona como referente en tu entorno laboral. Aprovecha este momento.",
+    "Lectura_Salud": "Tu energía es abundante pero no la malgastes. Canalízala en actividades que te nutran.",
+    "Lectura_Dinero": "Tu generosidad es admirable pero recuerda también invertir en ti mismo y tu seguridad."
+  },
+  {
+    "Signo": "Virgo",
+    "Fecha": "2026-09-16",
+    "Lectura_Amor": "Venus ilumina tu séptima casa. Es momento de expresar tus sentimientos con claridad y precisión.",
+    "Lectura_Trabajo": "Tu meticulosidad y atención al detalle son valoradas hoy. Un proyecto especial se beneficia de tu talento.",
+    "Lectura_Salud": "Tu salud digestiva merece atención. Cuida tu alimentación y reduce el estrés cotidiano.",
+    "Lectura_Dinero": "Tu habilidad para administrar recursos te favorece. Revisa inversiones y ajusta tu presupuesto."
+  },
+  {
+    "Signo": "Libra",
+    "Fecha": "2026-09-16",
+    "Lectura_Amor": "El equilibrio en tus relaciones es clave. Busca compromisos justos y evita extremos emocionales.",
+    "Lectura_Trabajo": "La diplomacia te abre puertas en el trabajo. Una negociación importante podría resolverse hoy.",
+    "Lectura_Salud": "El equilibrio entre mente y cuerpo es esencial. Actividades como yoga o tai chi te benefician.",
+    "Lectura_Dinero": "Las asociaciones financieras pueden ser favorables. Evalúa propuestas con lógica y objetividad."
+  },
+  {
+    "Signo": "Escorpio",
+    "Fecha": "2026-09-16",
+    "Lectura_Amor": "La intensidad de tus emociones puede ser tu mayor fortaleza amorosa. Permite la transformación en tu relación.",
+    "Lectura_Trabajo": "Tu poder de investigación y análisis te hacen valioso en cualquier proyecto laboral.",
+    "Lectura_Salud": "Tu sistema inmune necesita refuerzo. Descansa bien y mantén hábitos saludables constantes.",
+    "Lectura_Dinero": "Transformaciones financieras positivas se aproximan. Considera nuevas fuentes de ingresos."
+  },
+  {
+    "Signo": "Sagitario",
+    "Fecha": "2026-09-16",
+    "Lectura_Amor": "Tu optimismo y aventura atraen relaciones emocionantes. Sé honesto sobre lo que buscas en el amor.",
+    "Lectura_Trabajo": "Nuevas oportunidades de aprendizaje y expansión profesional se presentan. Abrete a ellas.",
+    "Lectura_Salud": "Tu amor por la aventura puede llevarte a excesos. Cuida tu cuerpo con la misma pasión que tu espíritu.",
+    "Lectura_Dinero": "Oportunidades de expansión financiera aparecen en el horizonte. La educación y viajes pueden traer ganancias."
+  },
+  {
+    "Signo": "Capricornio",
+    "Fecha": "2026-09-16",
+    "Lectura_Amor": "Tu seriedad puede interpretarse como frialdad. Muestra tu lado más cálido y vulnerable en el amor.",
+    "Lectura_Trabajo": "Tu ambición y disciplina te llevan a la cima. Un logro importante está cerca de materializarse.",
+    "Lectura_Salud": "El trabajo excesivo puede afectar tu salud. Establece límites y dedica tiempo al descanso.",
+    "Lectura_Dinero": "Tu disciplina financiera da frutos. Las inversiones a largo plazo que hiciste comienzan a rendir."
+  },
+  {
+    "Signo": "Acuario",
+    "Fecha": "2026-09-16",
+    "Lectura_Amor": "Tu originalidad y mente abierta atraen relaciones únicas. Busca alguien que comparta tu visión del mundo.",
+    "Lectura_Trabajo": "Tu pensamiento innovador revoluciona tu entorno laboral. No temas proponer cambios radicales.",
+    "Lectura_Salud": "Tu sistema nervioso se beneficia de la meditación y el contacto con la naturaleza.",
+    "Lectura_Dinero": "Proyectos innovadores pueden traer beneficios económicos inesperados. Confía en tus ideas."
+  },
+  {
+    "Signo": "Piscis",
+    "Fecha": "2026-09-16",
+    "Lectura_Amor": "Tu sensibilidad y romanticismo crean conexiones profundas. El amor espiritual y emocional te nutre.",
+    "Lectura_Trabajo": "Tu creatividad e intuición son tus mejores herramientas hoy. Confía en tu guía interior.",
+    "Lectura_Salud": "Tu salud emocional es tu prioridad. Practica límites saludables y no absorba los problemas ajenos.",
+    "Lectura_Dinero": "Tu intuición financiera es aguda hoy. Confía en tus corazonadas pero verifica los detalles prácticos."
+  }
+]
