@@ -1,0 +1,242 @@
+[
+  {
+    "Signo1": "Aries",
+    "Signo2": "Leo",
+    "Nivel": "Alta",
+    "Descripcion": "Conexión apasionada y llena de energía. Dos fuegos que se potencian mutuamente. Comparten ambición y amor por la aventura."
+  },
+  {
+    "Signo1": "Aries",
+    "Signo2": "Sagitario",
+    "Nivel": "Alta",
+    "Descripcion": "Aventura libertad y optimismo los une. Son almas gemelas en espíritu. Juntos conquistan el mundo sin límites."
+  },
+  {
+    "Signo1": "Aries",
+    "Signo2": "Géminis",
+    "Nivel": "Media-Alta",
+    "Descripcion": "Relación dinámica y estimulante. La energía de Aries y la mente de Géminis crean una combinación emocionante y creativa."
+  },
+  {
+    "Signo1": "Aries",
+    "Signo2": "Acuario",
+    "Nivel": "Media-Alta",
+    "Descripcion": "Dos espíritus independientes que se respetan. Comparten visión innovadora aunque necesitan espacio personal."
+  },
+  {
+    "Signo1": "Aries",
+    "Signo2": "Tauro",
+    "Nivel": "Media",
+    "Descripcion": "Complementarios pero con ritmos diferentes. Aries va rápido y Tauro va despacio. Requiere paciencia mutua."
+  },
+  {
+    "Signo1": "Aries",
+    "Signo2": "Escorpio",
+    "Nivel": "Media",
+    "Descripcion": "Intensidad y pasión extremas. Pueden amarse profundamente o chocar fuerte. Todo depende de la madurez emocional."
+  },
+  {
+    "Signo1": "Tauro",
+    "Signo2": "Virgo",
+    "Nivel": "Alta",
+    "Descripcion": "Tierra con tierra: estabilidad lealtad y valores compartidos. Una de las combinaciones más sólidas del zodiaco."
+  },
+  {
+    "Signo1": "Tauro",
+    "Signo2": "Capricornio",
+    "Nivel": "Alta",
+    "Descripcion": "Ambos valoran la seguridad y el trabajo duro. Construyen juntos un futuro sólido y próspero con gran complicidad."
+  },
+  {
+    "Signo1": "Tauro",
+    "Signo2": "Cáncer",
+    "Nivel": "Alta",
+    "Descripcion": "Amor profundo y hogareño. Comparten el amor por la familia la comodidad y la lealtad. Una unión muy nutritiva."
+  },
+  {
+    "Signo1": "Tauro",
+    "Signo2": "Piscis",
+    "Nivel": "Media-Alta",
+    "Descripcion": "Tauro da estabilidad a Piscis y Piscis da magia a Tauro. Se complementan de manera hermosa y romántica."
+  },
+  {
+    "Signo1": "Géminis",
+    "Signo2": "Libra",
+    "Nivel": "Alta",
+    "Descripcion": "Dos mentes brillantes y sociales. La comunicación fluye perfectamente. Disfrutan juntos del arte la cultura y las ideas."
+  },
+  {
+    "Signo1": "Géminis",
+    "Signo2": "Acuario",
+    "Nivel": "Alta",
+    "Descripcion": "Conexión intelectual profunda. Comparten amor por la libertad y las ideas innovadoras. Se entienden sin palabras."
+  },
+  {
+    "Signo1": "Géminis",
+    "Signo2": "Aries",
+    "Nivel": "Media-Alta",
+    "Descripcion": "Relación dinámica y estimulante. La energía de Aries y la mente de Géminis crean momentos emocionantes."
+  },
+  {
+    "Signo1": "Cáncer",
+    "Signo2": "Escorpio",
+    "Nivel": "Alta",
+    "Descripcion": "Conexión emocional profunda e intensa. Dos signos de agua que se comprenden en el nivel más íntimo del alma."
+  },
+  {
+    "Signo1": "Cáncer",
+    "Signo2": "Piscis",
+    "Nivel": "Alta",
+    "Descripcion": "Sensibilidad compasión y amor incondicional. Dos almas que se nutren mutuamente con una conexión casi telepática."
+  },
+  {
+    "Signo1": "Cáncer",
+    "Signo2": "Tauro",
+    "Nivel": "Alta",
+    "Descripcion": "Amor hogareño y nutritivo. Lealtad y ternura definen esta relación. Construyen un hogar lleno de amor y calidez."
+  },
+  {
+    "Signo1": "Leo",
+    "Signo2": "Sagitario",
+    "Nivel": "Alta",
+    "Descripcion": "Fuego con fuego: pasión aventura y optimismo. Se inspiran mutuamente y llenan su relación de alegría y entusiasmo."
+  },
+  {
+    "Signo1": "Leo",
+    "Signo2": "Aries",
+    "Nivel": "Alta",
+    "Descripcion": "Dos líderes apasionados. Pueden ser una pareja poderosa si aprenden a compartir el protagonismo con generosidad."
+  },
+  {
+    "Signo1": "Leo",
+    "Signo2": "Géminis",
+    "Nivel": "Media-Alta",
+    "Descripcion": "Leo da corazón y Géminis da mente. Una combinación creativa y entretenida llena de risas y proyectos juntos."
+  },
+  {
+    "Signo1": "Virgo",
+    "Signo2": "Capricornio",
+    "Nivel": "Alta",
+    "Descripcion": "Perfeccionismo y ambición compartida. Se apoyan mutuamente en sus metas con una lealtad y dedicación admirables."
+  },
+  {
+    "Signo1": "Virgo",
+    "Signo2": "Tauro",
+    "Nivel": "Alta",
+    "Descripcion": "Tierra sólida y confiable. Comparten valores prácticos y amor por la estabilidad. Una relación que crece con el tiempo."
+  },
+  {
+    "Signo1": "Virgo",
+    "Signo2": "Escorpio",
+    "Nivel": "Media-Alta",
+    "Descripcion": "Profundidad e inteligencia se unen. Virgo analiza y Escorpio siente. Juntos descubren verdades que otros no ven."
+  },
+  {
+    "Signo1": "Libra",
+    "Signo2": "Géminis",
+    "Nivel": "Alta",
+    "Descripcion": "Comunicación perfecta y armonía social. Disfrutan de la misma calidad de vida y tienen valores similares sobre el amor."
+  },
+  {
+    "Signo1": "Libra",
+    "Signo2": "Acuario",
+    "Nivel": "Alta",
+    "Descripcion": "Aire con aire: libertad idealismo y amor por la justicia. Se entienden profundamente y crean un vínculo muy especial."
+  },
+  {
+    "Signo1": "Libra",
+    "Signo2": "Leo",
+    "Nivel": "Media-Alta",
+    "Descripcion": "Leo aporta pasión y Libra aporta equilibrio. Se admiran mutuamente y crean una relación elegante y amorosa."
+  },
+  {
+    "Signo1": "Escorpio",
+    "Signo2": "Cáncer",
+    "Nivel": "Alta",
+    "Descripcion": "La conexión más profunda del zodiaco. Lealtad intensidad y amor incondicional. Una unión transformadora y poderosa."
+  },
+  {
+    "Signo1": "Escorpio",
+    "Signo2": "Piscis",
+    "Nivel": "Alta",
+    "Descripcion": "Dos almas de agua con una conexión mística. Se comprenden a nivel espiritual y emocional de manera extraordinaria."
+  },
+  {
+    "Signo1": "Escorpio",
+    "Signo2": "Virgo",
+    "Nivel": "Media-Alta",
+    "Descripcion": "Profundidad e inteligencia se unen. Escorpio transforma y Virgo organiza. Juntos son imparables."
+  },
+  {
+    "Signo1": "Sagitario",
+    "Signo2": "Aries",
+    "Nivel": "Alta",
+    "Descripcion": "Aventura libertad y filosofía compartida. Dos espíritus libres que se inspiran y se motivan mutuamente cada día."
+  },
+  {
+    "Signo1": "Sagitario",
+    "Signo2": "Leo",
+    "Nivel": "Alta",
+    "Descripcion": "Optimismo y pasión por la vida. Se divierten juntos y se apoyan en sus sueños más ambiciosos con entusiasmo."
+  },
+  {
+    "Signo1": "Sagitario",
+    "Signo2": "Acuario",
+    "Nivel": "Media-Alta",
+    "Descripcion": "Libertad e ideales compartidos. Ambos necesitan espacio y ambos lo dan. Una relación de respeto y aventura."
+  },
+  {
+    "Signo1": "Capricornio",
+    "Signo2": "Tauro",
+    "Nivel": "Alta",
+    "Descripcion": "Ambición y estabilidad compartida. Construyen juntos con paciencia y determinación un futuro sólido y próspero."
+  },
+  {
+    "Signo1": "Capricornio",
+    "Signo2": "Virgo",
+    "Nivel": "Alta",
+    "Descripcion": "Disciplina perfeccionismo y metas comunes. Se potencian mutuamente y logran todo lo que se proponen juntos."
+  },
+  {
+    "Signo1": "Capricornio",
+    "Signo2": "Escorpio",
+    "Nivel": "Media-Alta",
+    "Descripcion": "Determinación y profundidad. Ambos son intensos y comprometidos. Una relación poderosa y transformadora."
+  },
+  {
+    "Signo1": "Acuario",
+    "Signo2": "Géminis",
+    "Nivel": "Alta",
+    "Descripcion": "Libertad intelectual y pensamiento innovador. Se estimulan mentalmente y comparten una visión única del mundo."
+  },
+  {
+    "Signo1": "Acuario",
+    "Signo2": "Libra",
+    "Nivel": "Alta",
+    "Descripcion": "Idealismo y amor por la justicia. Se admiran y respetan. Crean juntos proyectos que benefician a los demás."
+  },
+  {
+    "Signo1": "Acuario",
+    "Signo2": "Sagitario",
+    "Nivel": "Media-Alta",
+    "Descripcion": "Aventura e independencia compartida. Ambos aman la libertad y se dan el espacio que necesitan para crecer."
+  },
+  {
+    "Signo1": "Piscis",
+    "Signo2": "Escorpio",
+    "Nivel": "Alta",
+    "Descripcion": "Conexión espiritual y emocional profunda. Se entienden sin palabras y se nutren mutuamente el alma con amor."
+  },
+  {
+    "Signo1": "Piscis",
+    "Signo2": "Cáncer",
+    "Nivel": "Alta",
+    "Descripcion": "Sensibilidad y compasión sin límites. Dos almas que se cuidan mutuamente y crean un amor eterno y profundo."
+  },
+  {
+    "Signo1": "Piscis",
+    "Signo2": "Tauro",
+    "Nivel": "Media-Alta",
+    "Descripcion": "Tauro da tierra a Piscis y Piscis da magia a Tauro. Se complementan perfectamente en lo cotidiano y lo espiritual."
+  }
+]
