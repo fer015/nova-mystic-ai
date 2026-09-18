@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nova Mystic AI</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#4A148C">
+</head>
+<body>
+
+  <header class="app-header">
+    <h1>Nova Mystic AI</h1>
+    <p class="subtitle">Guía Esotérica & Mística</p>
+  </header>
+
+  <nav class="bottom-nav">
+    <button class="nav-btn active" onclick="switchTab('suenos')">Sueños</button>
+    <button class="nav-btn" onclick="switchTab('horoscopo')">Horóscopo</button>
+    <button class="nav-btn" onclick="switchTab('tarot')">Tarot</button>
+    <button class="nav-btn" onclick="switchTab('numerologia')">Numerología</button>
+    <button class="nav-btn" onclick="switchTab('compatibilidad')">Compatibilidad</button>
+  </nav>
+
+  <main id="app-content" class="content-container">
+  </main>
+
+  <script src="app.js"></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('sw.js');
+    }
+  </script>
+</body>
+</html>
