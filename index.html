@@ -1,36 +1,348 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Nova Mystic AI</title>
-  <link rel="stylesheet" href="styles.css">
-  <link rel="manifest" href="manifest.json">
-  <meta name="theme-color" content="#4A148C">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nova Mystic AI</title>
+    <style>
+        :root {
+            --bg-color: #0d0a1a;
+            --card-bg: #1a1530;
+            --accent-color: #d4af37;
+            --text-color: #e6e1f5;
+            --purple-light: #7b2cbf;
+            --purple-dark: #3c096c;
+        }
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .container {
+            max-width: 550px;
+            width: 100%;
+        }
+        h1 {
+            text-align: center;
+            color: var(--accent-color);
+            letter-spacing: 2px;
+            margin-bottom: 5px;
+        }
+        .subtitle {
+            text-align: center;
+            font-size: 0.9rem;
+            color: #a29bfe;
+            margin-bottom: 25px;
+        }
+        .card {
+            background: var(--card-bg);
+            border: 1px solid #332a54;
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 25px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+            position: relative;
+        }
+        label, select, input, button, textarea {
+            width: 100%;
+            margin-top: 10px;
+            box-sizing: border-box;
+        }
+        input, select, textarea {
+            background: #0f0b21;
+            border: 1px solid #4a3e78;
+            color: #fff;
+            padding: 10px;
+            border-radius: 6px;
+        }
+        button {
+            background: linear-gradient(135deg, var(--purple-light), var(--purple-dark));
+            border: 1px solid var(--accent-color);
+            color: #fff;
+            padding: 12px;
+            font-weight: bold;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: 0.3s;
+            margin-top: 15px;
+        }
+        button:hover {
+            background: linear-gradient(135deg, #9d4edd, #5a189a);
+        }
+        .result {
+            margin-top: 15px;
+            padding: 15px;
+            background: #120e24;
+            border-left: 3px solid var(--accent-color);
+            border-radius: 4px;
+            white-space: pre-line;
+            display: none;
+            line-height: 1.5;
+        }
+        .badge {
+            font-size: 0.75rem;
+            padding: 3px 8px;
+            border-radius: 4px;
+            font-weight: bold;
+            position: absolute;
+            top: 15px;
+            right: 15px;
+        }
+        .free-badge {
+            background: #2ed573;
+            color: #000;
+        }
+        .premium-badge {
+            background: var(--accent-color);
+            color: #000;
+        }
+        
+        /* Grid de Cartas Interactivas */
+        .cards-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 10px;
+            margin-top: 10px;
+        }
+        .tarot-card {
+            aspect-ratio: 2/3;
+            background: #251e42;
+            border: 1px solid var(--accent-color);
+            border-radius: 6px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            font-size: 1.5rem;
+            transition: 0.3s;
+        }
+        .tarot-card:hover {
+            transform: translateY(-5px);
+            background: #3c096c;
+        }
+        .tarot-card.selected {
+            border: 2px solid #fff;
+            background: #7b2cbf;
+            box-shadow: 0 0 10px var(--accent-color);
+        }
+    </style>
 </head>
 <body>
 
-  <header class="app-header">
-    <h1>Nova Mystic AI</h1>
-    <p class="subtitle">Guía Esotérica & Mística</p>
-  </header>
+<div class="container">
+    <h1>🔮 NOVA MYSTIC AI</h1>
+    <div class="subtitle">Tu guía esotérica y astral con Inteligencia Artificial</div>
 
-  <nav class="bottom-nav">
-    <button class="nav-btn active" onclick="switchTab('suenos')">Sueños</button>
-    <button class="nav-btn" onclick="switchTab('horoscopo')">Horóscopo</button>
-    <button class="nav-btn" onclick="switchTab('tarot')">Tarot</button>
-    <button class="nav-btn" onclick="switchTab('numerologia')">Numerología</button>
-    <button class="nav-btn" onclick="switchTab('compatibilidad')">Compatibilidad</button>
-  </nav>
+    <!-- CLAVE API (Para pruebas) -->
+    <div class="card">
+        <label for="apiKey">🔑 Clave API de Google AI Studio:</label>
+        <input type="password" id="apiKey" placeholder="Pega tu API Key de Gemini aquí">
+    </div>
 
-  <main id="app-content" class="content-container">
-  </main>
+    <!-- 1. HORÓSCOPO + CARTA DEL DÍA (GRATIS) -->
+    <div class="card">
+        <span class="badge free-badge">GRATIS</span>
+        <h3>✨ Horóscopo y Carta del Día</h3>
+        <label for="signo">1. Selecciona tu Signo Zodiacal:</label>
+        <select id="signo">
+            <option value="Aries">Aries</option>
+            <option value="Tauro">Tauro</option>
+            <option value="Géminis">Géminis</option>
+            <option value="Cáncer">Cáncer</option>
+            <option value="Leo">Leo</option>
+            <option value="Virgo">Virgo</option>
+            <option value="Libra">Libra</option>
+            <option value="Escorpio">Escorpio</option>
+            <option value="Sagitario">Sagitario</option>
+            <option value="Capricornio">Capricornio</option>
+            <option value="Acuario">Acuario</option>
+            <option value="Piscis">Piscis</option>
+        </select>
 
-  <script src="app.js"></script>
-  <script>
-    if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.register('sw.js');
+        <label style="margin-top: 15px; display: block;">2. Selecciona una carta del día:</label>
+        <div class="cards-grid">
+            <div class="tarot-card" onclick="seleccionarCarta(this, 'El Sol')">☀️</div>
+            <div class="tarot-card" onclick="seleccionarCarta(this, 'La Luna')">🌙</div>
+            <div class="tarot-card" onclick="seleccionarCarta(this, 'La Estrella')">⭐</div>
+            <div class="tarot-card" onclick="seleccionarCarta(this, 'El Mago')">🧙‍♂️</div>
+        </div>
+        <input type="hidden" id="cartaSeleccionada">
+
+        <button onclick="obtenerHoroscopo()">Revelar Horóscopo del Día</button>
+        <div id="resHoroscopo" class="result"></div>
+    </div>
+
+    <!-- 2. NUMEROLOGÍA Y NÚMEROS DE LA SUERTE (GRATIS) -->
+    <div class="card">
+        <span class="badge free-badge">GRATIS</span>
+        <h3>🔢 Numerología y Números de la Suerte</h3>
+        <label for="fechaNacimiento">Ingresa tu Fecha de Nacimiento:</label>
+        <input type="date" id="fechaNacimiento">
+        <button onclick="obtenerNumerologia()">Calcular Camino de Vida</button>
+        <div id="resNumerologia" class="result"></div>
+    </div>
+
+    <!-- 3. COMPATIBILIDAD DE PAREJA (PREMIUM) -->
+    <div class="card">
+        <span class="badge premium-badge">PREMIUM</span>
+        <h3>❤️ Compatibilidad de Pareja</h3>
+        <label for="fechaPersonaA">Fecha de Nacimiento - Persona A:</label>
+        <input type="date" id="fechaPersonaA">
+        
+        <label for="fechaPersonaB">Fecha de Nacimiento - Persona B:</label>
+        <input type="date" id="fechaPersonaB">
+
+        <button onclick="obtenerCompatibilidad()">Analizar Compatibilidad</button>
+        <div id="resCompatibilidad" class="result"></div>
+    </div>
+
+    <!-- 4. ORÁCULO DE SUEÑOS (PREMIUM) -->
+    <div class="card">
+        <span class="badge premium-badge">PREMIUM</span>
+        <h3>🌙 Oráculo de Sueños Profundo</h3>
+        <label for="sueñoText">Describe tu sueño:</label>
+        <textarea id="sueñoText" rows="4" placeholder="Escribe los detalles de tu sueño, qué lugares viste y qué emociones sentiste..."></textarea>
+        <button onclick="obtenerSueño()">Interpretar Sueño</button>
+        <div id="resSueño" class="result"></div>
+    </div>
+</div>
+
+<script>
+// Función para elegir la carta en la cuadrícula
+function seleccionarCarta(elemento, nombreCarta) {
+    document.querySelectorAll('.tarot-card').forEach(card => card.classList.remove('selected'));
+    elemento.classList.add('selected');
+    document.getElementById('cartaSeleccionada').value = nombreCarta;
+}
+
+// Conector principal con la API de Gemini
+async function consultarGemini(systemPrompt, userPrompt) {
+    const apiKey = document.getElementById('apiKey').value;
+    if (!apiKey) {
+        alert("Por favor, ingresa tu API Key de Gemini en la casilla superior.");
+        return null;
     }
-  </script>
+
+    const timestamp = new Date().toISOString();
+    const promptConVariacion = `${userPrompt} [Momento de consulta: ${timestamp}]`;
+
+    const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`;
+
+    const requestBody = {
+        system_instruction: {
+            parts: [{ text: systemPrompt }]
+        },
+        contents: [{
+            parts: [{ text: promptConVariacion }]
+        }],
+        generationConfig: {
+            temperature: 0.95 // Respuestas más creativas y variadas
+        }
+    };
+
+    try {
+        const response = await fetch(url, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(requestBody)
+        });
+        const data = await response.json();
+        return data.candidates[0].content.parts[0].text;
+    } catch (error) {
+        console.error(error);
+        return "Error al conectar con los astros. Revisa tu clave API e intenta de nuevo.";
+    }
+}
+
+// 1. Horóscopo + Carta elegida por el usuario
+async function obtenerHoroscopo() {
+    const signo = document.getElementById('signo').value;
+    const carta = document.getElementById('cartaSeleccionada').value;
+
+    if (!carta) {
+        alert("Por favor selecciona una de las 4 cartas antes de continuar.");
+        return;
+    }
+
+    const resDiv = document.getElementById('resHoroscopo');
+    resDiv.style.display = 'block';
+    resDiv.innerText = 'Consultando la energía de las estrellas...';
+
+    const systemPrompt = "Eres Nova, una astróloga mística. Genera un horóscopo diario para el signo dado y combina su significado con la carta simbólica elegida por el usuario. Analiza amor, trabajo y crecimiento personal en menos de 150 palabras con tono enigmático y positivo.";
+    const userPrompt = `Mi signo es ${signo} y la carta que elegí hoy es '${carta}'.`;
+
+    const resultado = await consultarGemini(systemPrompt, userPrompt);
+    resDiv.innerText = resultado;
+}
+
+// 2. Numerología + Números dinámicos por día de la semana
+async function obtenerNumerologia() {
+    const fecha = document.getElementById('fechaNacimiento').value;
+    if (!fecha) {
+        alert("Por favor ingresa tu fecha de nacimiento.");
+        return;
+    }
+
+    const resDiv = document.getElementById('resNumerologia');
+    resDiv.style.display = 'block';
+    resDiv.innerText = 'Calculando tus números sagrados...';
+
+    // Obtener el día de la semana actual
+    const diasSemana = ["Domingo", "Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado"];
+    const hoy = diasSemana[new Date().getDay()];
+
+    const systemPrompt = "Calcula el número de vida según la fecha dada. Entrega una lectura mística sobre el camino de vida del usuario y proporciona exactamente 3 números de la suerte formateados así: 'Tus números de la suerte: X, Y, Z'.";
+    const userPrompt = `Mi fecha de nacimiento es ${fecha}. Hoy es ${hoy}, genera la lectura y los 3 números de la suerte ideales para este día de la semana.`;
+
+    const resultado = await consultarGemini(systemPrompt, userPrompt);
+    resDiv.innerText = resultado;
+}
+
+// 3. Compatibilidad de Pareja Premium
+async function obtenerCompatibilidad() {
+    const fechaA = document.getElementById('fechaPersonaA').value;
+    const fechaB = document.getElementById('fechaPersonaB').value;
+
+    if (!fechaA || !fechaB) {
+        alert("Ingresa ambas fechas de nacimiento para realizar el análisis de pareja.");
+        return;
+    }
+
+    const resDiv = document.getElementById('resCompatibilidad');
+    resDiv.style.display = 'block';
+    resDiv.innerText = 'Alineando los mapas astrales de ambas personas...';
+
+    const systemPrompt = "Actúa como astrólogo profesional. Analiza las fechas de nacimiento de dos personas, identifica sus signos y elementos. Evalúa la dinámica en amor, convivencia y proyectos. Entrega una puntuación de 1 a 100 para: ❤️ Amor, 🗣️ Comunicación, 🤝 Confianza, 💞 Compatibilidad Emocional y 🔥 Química. Finaliza con una recomendación personalizada para la pareja.";
+    const userPrompt = `Analiza la compatibilidad entre la Persona A (Nacida el ${fechaA}) y la Persona B (Nacida el ${fechaB}).`;
+
+    const resultado = await consultarGemini(systemPrompt, userPrompt);
+    resDiv.innerText = resultado;
+}
+
+// 4. Oráculo de Sueños Premium
+async function obtenerSueño() {
+    const sueño = document.getElementById('sueñoText').value;
+    if (!sueño) {
+        alert("Por favor describe tu sueño.");
+        return;
+    }
+
+    const resDiv = document.getElementById('resSueño');
+    resDiv.style.display = 'block';
+    resDiv.innerText = 'Descodificando el mensaje de tu inconsciente...';
+
+    const systemPrompt = "Eres la Maestra Oniromante de Nova Mystic AI. Analiza la descripción del sueño, emociones y situación del usuario. Desglosa la respuesta en: 🌌 Significado General, 🧩 Simbolismo de Elementos Clave, 🧠 Mensaje del Inconsciente, ⚠️ Aspectos a Atender y ✨ Consejo Espiritual Final. Usa un tono sabio, místico y envolvente.";
+    const userPrompt = `Este es mi sueño: ${sueño}`;
+
+    const resultado = await consultarGemini(systemPrompt, userPrompt);
+    resDiv.innerText = resultado;
+}
+</script>
+
 </body>
 </html>
